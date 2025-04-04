@@ -1,0 +1,25 @@
+{"idx": "1", "title": "※", "rule_content": "Define an operation such that when a is a multiple of b, a※b = a/b + 2.\nWhen b is a multiple of a, a※b = b/a + 2.\nIf a is not a multiple of b and b is not a multiple of a, a※b = 24.\nBoth a and b are integers.", "tag": "Basic Level"}
+{"idx": "2", "title": "○", "rule_content": "A○B=(A+3B)×(A+B)\nA and B are integers.", "tag": "Basic Level"}
+{"idx": "3", "title": "<>", "rule_content": "<a,b,c,d>=2ab+c-d\nabcd are all integers.", "tag": "Basic Level"}
+{"idx": "4", "title": "#", "rule_content": "a#b is the average of all even numbers between a and b (including a and b).", "tag": "Basic Level"}
+{"idx": "5", "title": "∞", "rule_content": "a∞b=a^2+b^2.\na and b are positive integers.", "tag": "Basic Level"}
+{"idx": "6", "title": "Multiple Operators 1", "rule_content": "operation § means select the larger of the two numbers.\noperation $ means select the smaller of the two numbers.", "tag": "Basic Level"}
+{"idx": "7", "title": "Multiple Operators 2", "rule_content": "a♀b=(a+b)/2\na♂b=a×4+b", "tag": "Basic Level"}
+{"idx": "8", "title": "Multiple Operators 3", "rule_content": "a①b=\\sqrt{a}+b^2.\na②b=\\sqrt{a}×b.", "tag": "Basic Level"}
+{"idx": "9", "title": "◇", "rule_content": "a◇b= a^b.\na and b are positive integers.", "tag": "Advanced Level"}
+{"idx": "10", "title": "￠", "rule_content": "a￠b=\\log_{b}{a}+\\log_{a}{b}.\na and b are positive integers.", "tag": "Advanced Level"}
+{"idx": "11", "title": "¥", "rule_content": "a¥b=a^b-b^a.\na and b are positive integers.", "tag": "Advanced Level"}
+{"idx": "12", "title": "%", "rule_content": "a%b=a^b+\\sqrt{ab}.\na and b are positive integers.", "tag": "Advanced Level"}
+{"idx": "13", "title": "⊕", "rule_content": "a⊕b=a+bi.", "tag": "Advanced Level"}
+{"idx": "14", "title": "◎", "rule_content": "a◎b=(a + bi)^2", "tag": "Advanced Level"}
+{"idx": "15", "title": "△", "rule_content": "f△g=(f(g(x)))′.", "tag": "Advanced Level"}
+{"idx": "16", "title": "□", "rule_content": "f□g=f'(x) \\quad +g'(x) \\quad.", "tag": "Advanced Level"}
+{"idx": "17", "title": "▽", "rule_content": "f▽g=f(x) \\quad+g''(x) \\quad.", "tag": "Advanced Level"}
+{"idx": "18", "title": "￡", "rule_content": "A￡B=(A∪B)−(A∩B).", "tag": "Advanced Level"}
+{"idx": "19", "title": "★", "rule_content": "a★b=\\int_{a}^{b} 2x \\, dx", "tag": "Challenge Level"}
+{"idx": "20", "title": "●", "rule_content": "a●b=\\int_{a}^{b} f(x) \\, dx+6.", "tag": "Challenge Level"}
+{"idx": "21", "title": "◆", "rule_content": "f◆D=\\iint_{D} f(x, y) \\, dx \\, dy.", "tag": "Challenge Level"}
+{"idx": "22", "title": "■", "rule_content": "f■g=\\frac{\\partial f}{\\partial x}+\\frac{\\partial g}{\\partial x}.", "tag": "Challenge Level"}
+{"idx": "23", "title": "&", "rule_content": "A&B denotes the element-by-element power operation (A \\& B)_{ij} = A_{ij}^{B_{ij}} of matrix A and matrix B.", "tag": "Challenge Level"}
+{"idx": "24", "title": "@", "rule_content": "A@B denotes the element-by-element maximization operation (A @ B)_{ij} = \\max(A_{ij}, B_{ij}) of matrix A and matrix B.", "tag": "Challenge Level"}
+{"idx": "25", "title": "€", "rule_content": "A€B=2A+3B\nA and B are matrices.", "tag": "Challenge Level"}

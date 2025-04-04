@@ -1,0 +1,1000 @@
+{"idx": "1", "rule_list": ["operation_3"], "question_list": ["operation_29"]}
+{"idx": "2", "rule_list": ["operation_16"], "question_list": ["operation_153", "operation_159"]}
+{"idx": "3", "rule_list": ["cipher_16"], "question_list": ["cipher_154", "cipher_156", "cipher_151"]}
+{"idx": "4", "rule_list": ["logic_4"], "question_list": ["logic_32", "logic_33", "logic_38", "logic_40"]}
+{"idx": "5", "rule_list": ["cipher_11"], "question_list": ["cipher_101", "cipher_110", "cipher_102", "cipher_103", "cipher_106"]}
+{"idx": "6", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_159", "counterfactual_151", "counterfactual_154", "counterfactual_160", "counterfactual_156", "counterfactual_157"]}
+{"idx": "7", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_235", "counterfactual_236", "counterfactual_233", "counterfactual_237", "counterfactual_239", "counterfactual_240", "counterfactual_231"]}
+{"idx": "8", "rule_list": ["logic_13"], "question_list": ["logic_123", "logic_129", "logic_130", "logic_125", "logic_128", "logic_121", "logic_122", "logic_127"]}
+{"idx": "9", "rule_list": ["cipher_11"], "question_list": ["cipher_107", "cipher_103", "cipher_102", "cipher_110", "cipher_106", "cipher_104", "cipher_108", "cipher_109", "cipher_105"]}
+{"idx": "10", "rule_list": ["cipher_11"], "question_list": ["cipher_101", "cipher_110", "cipher_109", "cipher_103", "cipher_108", "cipher_104", "cipher_102", "cipher_105", "cipher_107", "cipher_106"]}
+{"idx": "11", "rule_list": ["puzzle_10"], "question_list": ["puzzle_100"]}
+{"idx": "12", "rule_list": ["logic_10"], "question_list": ["logic_98", "logic_97"]}
+{"idx": "13", "rule_list": ["puzzle_11"], "question_list": ["puzzle_105", "puzzle_109", "puzzle_103"]}
+{"idx": "14", "rule_list": ["logic_21"], "question_list": ["logic_206", "logic_207", "logic_205", "logic_202"]}
+{"idx": "15", "rule_list": ["logic_13"], "question_list": ["logic_124", "logic_129", "logic_126", "logic_122", "logic_125"]}
+{"idx": "16", "rule_list": ["counterfactual_3"], "question_list": ["counterfactual_27", "counterfactual_24", "counterfactual_28", "counterfactual_21", "counterfactual_23", "counterfactual_22"]}
+{"idx": "17", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_222", "counterfactual_223", "counterfactual_224", "counterfactual_226", "counterfactual_230", "counterfactual_221", "counterfactual_227"]}
+{"idx": "18", "rule_list": ["puzzle_13"], "question_list": ["puzzle_126", "puzzle_130", "puzzle_128", "puzzle_121", "puzzle_127", "puzzle_125", "puzzle_129", "puzzle_124"]}
+{"idx": "19", "rule_list": ["counterfactual_7"], "question_list": ["counterfactual_62", "counterfactual_64", "counterfactual_68", "counterfactual_67", "counterfactual_69", "counterfactual_70", "counterfactual_66", "counterfactual_65", "counterfactual_63"]}
+{"idx": "20", "rule_list": ["puzzle_3"], "question_list": ["puzzle_29", "puzzle_24", "puzzle_25", "puzzle_30", "puzzle_26", "puzzle_22", "puzzle_21", "puzzle_27", "puzzle_28", "puzzle_23"]}
+{"idx": "21", "rule_list": ["cipher_8"], "question_list": ["cipher_74"]}
+{"idx": "22", "rule_list": ["logic_9"], "question_list": ["logic_88", "logic_86"]}
+{"idx": "23", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_83", "counterfactual_89", "counterfactual_86"]}
+{"idx": "24", "rule_list": ["puzzle_1"], "question_list": ["puzzle_8", "puzzle_1", "puzzle_9", "puzzle_7"]}
+{"idx": "25", "rule_list": ["cipher_14"], "question_list": ["cipher_136", "cipher_131", "cipher_134", "cipher_132", "cipher_138"]}
+{"idx": "26", "rule_list": ["operation_25"], "question_list": ["operation_241", "operation_248", "operation_242", "operation_249", "operation_247", "operation_250"]}
+{"idx": "27", "rule_list": ["puzzle_9"], "question_list": ["puzzle_84", "puzzle_90", "puzzle_88", "puzzle_85", "puzzle_82", "puzzle_89", "puzzle_81"]}
+{"idx": "28", "rule_list": ["cipher_18"], "question_list": ["cipher_172", "cipher_173", "cipher_179", "cipher_180", "cipher_177", "cipher_171", "cipher_175", "cipher_174"]}
+{"idx": "29", "rule_list": ["puzzle_15"], "question_list": ["puzzle_141", "puzzle_148", "puzzle_144", "puzzle_146", "puzzle_142", "puzzle_150", "puzzle_147", "puzzle_143", "puzzle_145"]}
+{"idx": "30", "rule_list": ["logic_19"], "question_list": ["logic_186", "logic_189", "logic_184", "logic_183", "logic_182", "logic_190", "logic_181", "logic_185", "logic_188", "logic_187"]}
+{"idx": "31", "rule_list": ["cipher_24"], "question_list": ["cipher_231"]}
+{"idx": "32", "rule_list": ["puzzle_8"], "question_list": ["puzzle_73", "puzzle_71"]}
+{"idx": "33", "rule_list": ["puzzle_5"], "question_list": ["puzzle_42", "puzzle_50", "puzzle_41"]}
+{"idx": "34", "rule_list": ["operation_25"], "question_list": ["operation_246", "operation_243", "operation_248", "operation_249"]}
+{"idx": "35", "rule_list": ["puzzle_14"], "question_list": ["puzzle_138", "puzzle_132", "puzzle_133", "puzzle_140", "puzzle_137"]}
+{"idx": "36", "rule_list": ["cipher_17"], "question_list": ["cipher_170", "cipher_161", "cipher_169", "cipher_163", "cipher_168", "cipher_164"]}
+{"idx": "37", "rule_list": ["operation_8"], "question_list": ["operation_72", "operation_74", "operation_75", "operation_73", "operation_71", "operation_77", "operation_79"]}
+{"idx": "38", "rule_list": ["cipher_22"], "question_list": ["cipher_218", "cipher_217", "cipher_219", "cipher_220", "cipher_212", "cipher_216", "cipher_213", "cipher_211"]}
+{"idx": "39", "rule_list": ["puzzle_14"], "question_list": ["puzzle_131", "puzzle_134", "puzzle_132", "puzzle_136", "puzzle_135", "puzzle_137", "puzzle_133", "puzzle_138", "puzzle_140"]}
+{"idx": "40", "rule_list": ["puzzle_7"], "question_list": ["puzzle_70", "puzzle_64", "puzzle_69", "puzzle_67", "puzzle_68", "puzzle_63", "puzzle_62", "puzzle_61", "puzzle_65", "puzzle_66"]}
+{"idx": "41", "rule_list": ["puzzle_14"], "question_list": ["puzzle_135"]}
+{"idx": "42", "rule_list": ["operation_7"], "question_list": ["operation_66", "operation_70"]}
+{"idx": "43", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_110", "counterfactual_102", "counterfactual_105"]}
+{"idx": "44", "rule_list": ["logic_23"], "question_list": ["logic_228", "logic_230", "logic_229", "logic_223"]}
+{"idx": "45", "rule_list": ["counterfactual_20"], "question_list": ["counterfactual_197", "counterfactual_198", "counterfactual_193", "counterfactual_199", "counterfactual_195"]}
+{"idx": "46", "rule_list": ["cipher_1"], "question_list": ["cipher_6", "cipher_2", "cipher_8", "cipher_1", "cipher_9", "cipher_3"]}
+{"idx": "47", "rule_list": ["cipher_13"], "question_list": ["cipher_128", "cipher_130", "cipher_125", "cipher_126", "cipher_124", "cipher_122", "cipher_121"]}
+{"idx": "48", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_53", "counterfactual_51", "counterfactual_60", "counterfactual_56", "counterfactual_52", "counterfactual_54", "counterfactual_58", "counterfactual_59"]}
+{"idx": "49", "rule_list": ["logic_1"], "question_list": ["logic_5", "logic_9", "logic_2", "logic_6", "logic_1", "logic_8", "logic_3", "logic_10", "logic_4"]}
+{"idx": "50", "rule_list": ["puzzle_11"], "question_list": ["puzzle_108", "puzzle_103", "puzzle_110", "puzzle_104", "puzzle_102", "puzzle_105", "puzzle_106", "puzzle_101", "puzzle_107", "puzzle_109"]}
+{"idx": "51", "rule_list": ["puzzle_17"], "question_list": ["puzzle_162"]}
+{"idx": "52", "rule_list": ["puzzle_9"], "question_list": ["puzzle_87", "puzzle_82"]}
+{"idx": "53", "rule_list": ["puzzle_11"], "question_list": ["puzzle_109", "puzzle_105", "puzzle_108"]}
+{"idx": "54", "rule_list": ["cipher_18"], "question_list": ["cipher_174", "cipher_180", "cipher_175", "cipher_178"]}
+{"idx": "55", "rule_list": ["operation_21"], "question_list": ["operation_204", "operation_210", "operation_208", "operation_201", "operation_209"]}
+{"idx": "56", "rule_list": ["cipher_7"], "question_list": ["cipher_69", "cipher_63", "cipher_67", "cipher_66", "cipher_62", "cipher_64"]}
+{"idx": "57", "rule_list": ["logic_7"], "question_list": ["logic_66", "logic_63", "logic_62", "logic_70", "logic_65", "logic_69", "logic_61"]}
+{"idx": "58", "rule_list": ["cipher_25"], "question_list": ["cipher_245", "cipher_248", "cipher_244", "cipher_242", "cipher_243", "cipher_247", "cipher_249", "cipher_241"]}
+{"idx": "59", "rule_list": ["operation_9"], "question_list": ["operation_81", "operation_84", "operation_88", "operation_82", "operation_89", "operation_86", "operation_87", "operation_90", "operation_85"]}
+{"idx": "60", "rule_list": ["cipher_22"], "question_list": ["cipher_212", "cipher_214", "cipher_213", "cipher_218", "cipher_219", "cipher_220", "cipher_217", "cipher_215", "cipher_216", "cipher_211"]}
+{"idx": "61", "rule_list": ["puzzle_11"], "question_list": ["puzzle_101"]}
+{"idx": "62", "rule_list": ["puzzle_15"], "question_list": ["puzzle_147", "puzzle_146"]}
+{"idx": "63", "rule_list": ["counterfactual_7"], "question_list": ["counterfactual_61", "counterfactual_65", "counterfactual_70"]}
+{"idx": "64", "rule_list": ["cipher_19"], "question_list": ["cipher_190", "cipher_184", "cipher_182", "cipher_181"]}
+{"idx": "65", "rule_list": ["operation_9"], "question_list": ["operation_82", "operation_90", "operation_81", "operation_85", "operation_86"]}
+{"idx": "66", "rule_list": ["operation_22"], "question_list": ["operation_212", "operation_213", "operation_214", "operation_215", "operation_219", "operation_218"]}
+{"idx": "67", "rule_list": ["logic_4"], "question_list": ["logic_37", "logic_32", "logic_36", "logic_35", "logic_34", "logic_31", "logic_40"]}
+{"idx": "68", "rule_list": ["cipher_4"], "question_list": ["cipher_32", "cipher_38", "cipher_33", "cipher_31", "cipher_35", "cipher_40", "cipher_39", "cipher_37"]}
+{"idx": "69", "rule_list": ["logic_13"], "question_list": ["logic_125", "logic_123", "logic_128", "logic_126", "logic_121", "logic_124", "logic_127", "logic_130", "logic_129"]}
+{"idx": "70", "rule_list": ["logic_22"], "question_list": ["logic_214", "logic_211", "logic_219", "logic_216", "logic_215", "logic_220", "logic_217", "logic_218", "logic_213", "logic_212"]}
+{"idx": "71", "rule_list": ["cipher_14"], "question_list": ["cipher_138"]}
+{"idx": "72", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_166", "counterfactual_167"]}
+{"idx": "73", "rule_list": ["puzzle_2"], "question_list": ["puzzle_19", "puzzle_13", "puzzle_18"]}
+{"idx": "74", "rule_list": ["cipher_1"], "question_list": ["cipher_10", "cipher_6", "cipher_1", "cipher_8"]}
+{"idx": "75", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_155", "counterfactual_159", "counterfactual_152", "counterfactual_160", "counterfactual_156"]}
+{"idx": "76", "rule_list": ["cipher_20"], "question_list": ["cipher_195", "cipher_192", "cipher_197", "cipher_200", "cipher_199", "cipher_196"]}
+{"idx": "77", "rule_list": ["counterfactual_19"], "question_list": ["counterfactual_182", "counterfactual_185", "counterfactual_190", "counterfactual_186", "counterfactual_189", "counterfactual_187", "counterfactual_181"]}
+{"idx": "78", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_41", "counterfactual_50", "counterfactual_43", "counterfactual_44", "counterfactual_47", "counterfactual_42", "counterfactual_48", "counterfactual_49"]}
+{"idx": "79", "rule_list": ["counterfactual_13"], "question_list": ["counterfactual_124", "counterfactual_121", "counterfactual_122", "counterfactual_128", "counterfactual_127", "counterfactual_123", "counterfactual_125", "counterfactual_129", "counterfactual_126"]}
+{"idx": "80", "rule_list": ["cipher_18"], "question_list": ["cipher_175", "cipher_176", "cipher_179", "cipher_178", "cipher_180", "cipher_173", "cipher_171", "cipher_174", "cipher_177", "cipher_172"]}
+{"idx": "81", "rule_list": ["puzzle_21"], "question_list": ["puzzle_210"]}
+{"idx": "82", "rule_list": ["puzzle_14"], "question_list": ["puzzle_131", "puzzle_132"]}
+{"idx": "83", "rule_list": ["operation_17"], "question_list": ["operation_170", "operation_161", "operation_162"]}
+{"idx": "84", "rule_list": ["puzzle_12"], "question_list": ["puzzle_111", "puzzle_114", "puzzle_117", "puzzle_113"]}
+{"idx": "85", "rule_list": ["puzzle_12"], "question_list": ["puzzle_111", "puzzle_117", "puzzle_119", "puzzle_116", "puzzle_115"]}
+{"idx": "86", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_83", "counterfactual_82", "counterfactual_89", "counterfactual_84", "counterfactual_85", "counterfactual_87"]}
+{"idx": "87", "rule_list": ["logic_7"], "question_list": ["logic_64", "logic_66", "logic_62", "logic_63", "logic_67", "logic_70", "logic_68"]}
+{"idx": "88", "rule_list": ["cipher_10"], "question_list": ["cipher_99", "cipher_96", "cipher_92", "cipher_98", "cipher_97", "cipher_95", "cipher_94", "cipher_93"]}
+{"idx": "89", "rule_list": ["cipher_23"], "question_list": ["cipher_223", "cipher_226", "cipher_224", "cipher_227", "cipher_221", "cipher_222", "cipher_229", "cipher_228", "cipher_230"]}
+{"idx": "90", "rule_list": ["logic_9"], "question_list": ["logic_90", "logic_81", "logic_82", "logic_83", "logic_87", "logic_85", "logic_88", "logic_84", "logic_89", "logic_86"]}
+{"idx": "91", "rule_list": ["logic_3"], "question_list": ["logic_21"]}
+{"idx": "92", "rule_list": ["logic_22"], "question_list": ["logic_218", "logic_212"]}
+{"idx": "93", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_145", "counterfactual_148", "counterfactual_142"]}
+{"idx": "94", "rule_list": ["puzzle_19"], "question_list": ["puzzle_186", "puzzle_189", "puzzle_184", "puzzle_182"]}
+{"idx": "95", "rule_list": ["logic_23"], "question_list": ["logic_224", "logic_221", "logic_225", "logic_222", "logic_223"]}
+{"idx": "96", "rule_list": ["puzzle_17"], "question_list": ["puzzle_163", "puzzle_166", "puzzle_164", "puzzle_168", "puzzle_169", "puzzle_170"]}
+{"idx": "97", "rule_list": ["puzzle_14"], "question_list": ["puzzle_131", "puzzle_140", "puzzle_138", "puzzle_133", "puzzle_139", "puzzle_134", "puzzle_137"]}
+{"idx": "98", "rule_list": ["counterfactual_12"], "question_list": ["counterfactual_113", "counterfactual_118", "counterfactual_119", "counterfactual_117", "counterfactual_115", "counterfactual_112", "counterfactual_111", "counterfactual_120"]}
+{"idx": "99", "rule_list": ["operation_19"], "question_list": ["operation_190", "operation_184", "operation_183", "operation_189", "operation_181", "operation_187", "operation_182", "operation_186", "operation_188"]}
+{"idx": "100", "rule_list": ["operation_20"], "question_list": ["operation_198", "operation_193", "operation_195", "operation_196", "operation_199", "operation_197", "operation_192", "operation_194", "operation_200", "operation_191"]}
+{"idx": "101", "rule_list": ["puzzle_23"], "question_list": ["puzzle_224"]}
+{"idx": "102", "rule_list": ["cipher_15"], "question_list": ["cipher_144", "cipher_141"]}
+{"idx": "103", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_139", "counterfactual_135", "counterfactual_136"]}
+{"idx": "104", "rule_list": ["puzzle_15"], "question_list": ["puzzle_149", "puzzle_147", "puzzle_146", "puzzle_142"]}
+{"idx": "105", "rule_list": ["cipher_22"], "question_list": ["cipher_212", "cipher_220", "cipher_215", "cipher_218", "cipher_219"]}
+{"idx": "106", "rule_list": ["cipher_19"], "question_list": ["cipher_184", "cipher_181", "cipher_185", "cipher_189", "cipher_182", "cipher_188"]}
+{"idx": "107", "rule_list": ["logic_20"], "question_list": ["logic_192", "logic_199", "logic_195", "logic_200", "logic_191", "logic_197", "logic_196"]}
+{"idx": "108", "rule_list": ["operation_17"], "question_list": ["operation_163", "operation_161", "operation_162", "operation_166", "operation_165", "operation_168", "operation_167", "operation_169"]}
+{"idx": "109", "rule_list": ["operation_5"], "question_list": ["operation_45", "operation_42", "operation_50", "operation_49", "operation_41", "operation_48", "operation_47", "operation_43", "operation_44"]}
+{"idx": "110", "rule_list": ["cipher_8"], "question_list": ["cipher_73", "cipher_75", "cipher_77", "cipher_78", "cipher_79", "cipher_72", "cipher_74", "cipher_76", "cipher_80", "cipher_71"]}
+{"idx": "111", "rule_list": ["cipher_1"], "question_list": ["cipher_1"]}
+{"idx": "112", "rule_list": ["logic_18"], "question_list": ["logic_180", "logic_175"]}
+{"idx": "113", "rule_list": ["operation_19"], "question_list": ["operation_187", "operation_185", "operation_182"]}
+{"idx": "114", "rule_list": ["logic_11"], "question_list": ["logic_103", "logic_108", "logic_109", "logic_107"]}
+{"idx": "115", "rule_list": ["operation_21"], "question_list": ["operation_208", "operation_209", "operation_210", "operation_206", "operation_207"]}
+{"idx": "116", "rule_list": ["logic_19"], "question_list": ["logic_184", "logic_190", "logic_186", "logic_189", "logic_182", "logic_188"]}
+{"idx": "117", "rule_list": ["cipher_5"], "question_list": ["cipher_50", "cipher_41", "cipher_49", "cipher_42", "cipher_43", "cipher_47", "cipher_46"]}
+{"idx": "118", "rule_list": ["operation_21"], "question_list": ["operation_210", "operation_204", "operation_207", "operation_205", "operation_201", "operation_208", "operation_202", "operation_209"]}
+{"idx": "119", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_142", "counterfactual_149", "counterfactual_145", "counterfactual_147", "counterfactual_144", "counterfactual_150", "counterfactual_146", "counterfactual_148", "counterfactual_141"]}
+{"idx": "120", "rule_list": ["puzzle_5"], "question_list": ["puzzle_46", "puzzle_47", "puzzle_44", "puzzle_45", "puzzle_50", "puzzle_43", "puzzle_41", "puzzle_49", "puzzle_42", "puzzle_48"]}
+{"idx": "121", "rule_list": ["logic_14"], "question_list": ["logic_140"]}
+{"idx": "122", "rule_list": ["puzzle_14"], "question_list": ["puzzle_137", "puzzle_140"]}
+{"idx": "123", "rule_list": ["cipher_12"], "question_list": ["cipher_117", "cipher_111", "cipher_112"]}
+{"idx": "124", "rule_list": ["cipher_23"], "question_list": ["cipher_223", "cipher_224", "cipher_230", "cipher_228"]}
+{"idx": "125", "rule_list": ["puzzle_7"], "question_list": ["puzzle_70", "puzzle_63", "puzzle_65", "puzzle_68", "puzzle_69"]}
+{"idx": "126", "rule_list": ["operation_22"], "question_list": ["operation_213", "operation_212", "operation_220", "operation_211", "operation_214", "operation_217"]}
+{"idx": "127", "rule_list": ["logic_15"], "question_list": ["logic_148", "logic_142", "logic_149", "logic_144", "logic_150", "logic_145", "logic_146"]}
+{"idx": "128", "rule_list": ["cipher_3"], "question_list": ["cipher_25", "cipher_30", "cipher_26", "cipher_27", "cipher_29", "cipher_23", "cipher_24", "cipher_22"]}
+{"idx": "129", "rule_list": ["puzzle_9"], "question_list": ["puzzle_88", "puzzle_81", "puzzle_83", "puzzle_86", "puzzle_82", "puzzle_87", "puzzle_85", "puzzle_89", "puzzle_90"]}
+{"idx": "130", "rule_list": ["operation_10"], "question_list": ["operation_93", "operation_96", "operation_100", "operation_94", "operation_98", "operation_95", "operation_92", "operation_97", "operation_91", "operation_99"]}
+{"idx": "131", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_16"]}
+{"idx": "132", "rule_list": ["puzzle_17"], "question_list": ["puzzle_167", "puzzle_165"]}
+{"idx": "133", "rule_list": ["puzzle_22"], "question_list": ["puzzle_211", "puzzle_213", "puzzle_212"]}
+{"idx": "134", "rule_list": ["operation_19"], "question_list": ["operation_181", "operation_182", "operation_190", "operation_186"]}
+{"idx": "135", "rule_list": ["puzzle_15"], "question_list": ["puzzle_141", "puzzle_146", "puzzle_147", "puzzle_142", "puzzle_145"]}
+{"idx": "136", "rule_list": ["logic_1"], "question_list": ["logic_10", "logic_7", "logic_8", "logic_2", "logic_5", "logic_4"]}
+{"idx": "137", "rule_list": ["logic_9"], "question_list": ["logic_89", "logic_83", "logic_85", "logic_86", "logic_84", "logic_82", "logic_90"]}
+{"idx": "138", "rule_list": ["logic_9"], "question_list": ["logic_81", "logic_83", "logic_88", "logic_86", "logic_84", "logic_85", "logic_82", "logic_89"]}
+{"idx": "139", "rule_list": ["logic_23"], "question_list": ["logic_225", "logic_221", "logic_222", "logic_223", "logic_226", "logic_224", "logic_229", "logic_227", "logic_230"]}
+{"idx": "140", "rule_list": ["operation_11"], "question_list": ["operation_106", "operation_105", "operation_107", "operation_102", "operation_109", "operation_101", "operation_108", "operation_104", "operation_110", "operation_103"]}
+{"idx": "141", "rule_list": ["logic_7"], "question_list": ["logic_67"]}
+{"idx": "142", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_12", "counterfactual_19"]}
+{"idx": "143", "rule_list": ["logic_2"], "question_list": ["logic_13", "logic_18", "logic_14"]}
+{"idx": "144", "rule_list": ["puzzle_5"], "question_list": ["puzzle_50", "puzzle_42", "puzzle_49", "puzzle_48"]}
+{"idx": "145", "rule_list": ["cipher_7"], "question_list": ["cipher_66", "cipher_63", "cipher_62", "cipher_61", "cipher_69"]}
+{"idx": "146", "rule_list": ["logic_13"], "question_list": ["logic_126", "logic_125", "logic_129", "logic_130", "logic_123", "logic_124"]}
+{"idx": "147", "rule_list": ["operation_11"], "question_list": ["operation_104", "operation_107", "operation_110", "operation_109", "operation_108", "operation_106", "operation_103"]}
+{"idx": "148", "rule_list": ["operation_18"], "question_list": ["operation_172", "operation_179", "operation_174", "operation_180", "operation_178", "operation_173", "operation_177", "operation_176"]}
+{"idx": "149", "rule_list": ["operation_25"], "question_list": ["operation_245", "operation_243", "operation_247", "operation_242", "operation_244", "operation_249", "operation_250", "operation_246", "operation_241"]}
+{"idx": "150", "rule_list": ["cipher_13"], "question_list": ["cipher_126", "cipher_127", "cipher_125", "cipher_124", "cipher_130", "cipher_129", "cipher_128", "cipher_123", "cipher_121", "cipher_122"]}
+{"idx": "151", "rule_list": ["cipher_6"], "question_list": ["cipher_56"]}
+{"idx": "152", "rule_list": ["puzzle_11"], "question_list": ["puzzle_102", "puzzle_105"]}
+{"idx": "153", "rule_list": ["cipher_25"], "question_list": ["cipher_249", "cipher_250", "cipher_242"]}
+{"idx": "154", "rule_list": ["logic_13"], "question_list": ["logic_122", "logic_129", "logic_128", "logic_124"]}
+{"idx": "155", "rule_list": ["operation_15"], "question_list": ["operation_149", "operation_148", "operation_144", "operation_150", "operation_146"]}
+{"idx": "156", "rule_list": ["counterfactual_8"], "question_list": ["counterfactual_80", "counterfactual_77", "counterfactual_73", "counterfactual_79", "counterfactual_72", "counterfactual_78"]}
+{"idx": "157", "rule_list": ["puzzle_17"], "question_list": ["puzzle_162", "puzzle_163", "puzzle_164", "puzzle_168", "puzzle_169", "puzzle_161", "puzzle_166"]}
+{"idx": "158", "rule_list": ["logic_7"], "question_list": ["logic_64", "logic_61", "logic_66", "logic_62", "logic_68", "logic_65", "logic_70", "logic_67"]}
+{"idx": "159", "rule_list": ["cipher_13"], "question_list": ["cipher_127", "cipher_123", "cipher_125", "cipher_129", "cipher_121", "cipher_122", "cipher_124", "cipher_126", "cipher_130"]}
+{"idx": "160", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_155", "counterfactual_154", "counterfactual_152", "counterfactual_156", "counterfactual_153", "counterfactual_160", "counterfactual_158", "counterfactual_159", "counterfactual_157", "counterfactual_151"]}
+{"idx": "161", "rule_list": ["cipher_17"], "question_list": ["cipher_167"]}
+{"idx": "162", "rule_list": ["puzzle_6"], "question_list": ["puzzle_53", "puzzle_51"]}
+{"idx": "163", "rule_list": ["operation_12"], "question_list": ["operation_114", "operation_115", "operation_113"]}
+{"idx": "164", "rule_list": ["operation_24"], "question_list": ["operation_240", "operation_235", "operation_232", "operation_238"]}
+{"idx": "165", "rule_list": ["operation_5"], "question_list": ["operation_48", "operation_49", "operation_46", "operation_50", "operation_42"]}
+{"idx": "166", "rule_list": ["operation_1"], "question_list": ["operation_6", "operation_9", "operation_10", "operation_8", "operation_1", "operation_3"]}
+{"idx": "167", "rule_list": ["operation_4"], "question_list": ["operation_35", "operation_36", "operation_33", "operation_31", "operation_37", "operation_40", "operation_34"]}
+{"idx": "168", "rule_list": ["operation_6"], "question_list": ["operation_58", "operation_53", "operation_56", "operation_59", "operation_60", "operation_51", "operation_52", "operation_57"]}
+{"idx": "169", "rule_list": ["puzzle_23"], "question_list": ["puzzle_230", "puzzle_229", "puzzle_223", "puzzle_224", "puzzle_226", "puzzle_221", "puzzle_228", "puzzle_222", "puzzle_227"]}
+{"idx": "170", "rule_list": ["puzzle_21"], "question_list": ["puzzle_210", "puzzle_203", "puzzle_205", "puzzle_206", "puzzle_201", "puzzle_208", "puzzle_202", "puzzle_204", "puzzle_207", "puzzle_209"]}
+{"idx": "171", "rule_list": ["puzzle_22"], "question_list": ["puzzle_216"]}
+{"idx": "172", "rule_list": ["operation_20"], "question_list": ["operation_199", "operation_198"]}
+{"idx": "173", "rule_list": ["cipher_11"], "question_list": ["cipher_110", "cipher_102", "cipher_108"]}
+{"idx": "174", "rule_list": ["logic_6"], "question_list": ["logic_57", "logic_55", "logic_59", "logic_52"]}
+{"idx": "175", "rule_list": ["logic_13"], "question_list": ["logic_130", "logic_126", "logic_124", "logic_127", "logic_128"]}
+{"idx": "176", "rule_list": ["operation_4"], "question_list": ["operation_40", "operation_39", "operation_38", "operation_33", "operation_31", "operation_32"]}
+{"idx": "177", "rule_list": ["logic_9"], "question_list": ["logic_83", "logic_87", "logic_90", "logic_86", "logic_85", "logic_82", "logic_81"]}
+{"idx": "178", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_107", "counterfactual_110", "counterfactual_109", "counterfactual_105", "counterfactual_104", "counterfactual_106", "counterfactual_101", "counterfactual_103"]}
+{"idx": "179", "rule_list": ["logic_3"], "question_list": ["logic_26", "logic_21", "logic_25", "logic_28", "logic_29", "logic_27", "logic_23", "logic_24", "logic_22"]}
+{"idx": "180", "rule_list": ["puzzle_15"], "question_list": ["puzzle_143", "puzzle_147", "puzzle_142", "puzzle_144", "puzzle_148", "puzzle_149", "puzzle_146", "puzzle_150", "puzzle_145", "puzzle_141"]}
+{"idx": "181", "rule_list": ["cipher_19"], "question_list": ["cipher_184"]}
+{"idx": "182", "rule_list": ["logic_8"], "question_list": ["logic_72", "logic_73"]}
+{"idx": "183", "rule_list": ["cipher_13"], "question_list": ["cipher_122", "cipher_127", "cipher_125"]}
+{"idx": "184", "rule_list": ["operation_5"], "question_list": ["operation_48", "operation_43", "operation_42", "operation_47"]}
+{"idx": "185", "rule_list": ["puzzle_7"], "question_list": ["puzzle_68", "puzzle_61", "puzzle_69", "puzzle_67", "puzzle_62"]}
+{"idx": "186", "rule_list": ["operation_7"], "question_list": ["operation_64", "operation_70", "operation_69", "operation_65", "operation_61", "operation_67"]}
+{"idx": "187", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_221", "counterfactual_230", "counterfactual_222", "counterfactual_228", "counterfactual_225", "counterfactual_229", "counterfactual_227"]}
+{"idx": "188", "rule_list": ["cipher_18"], "question_list": ["cipher_178", "cipher_171", "cipher_180", "cipher_172", "cipher_174", "cipher_175", "cipher_173", "cipher_176"]}
+{"idx": "189", "rule_list": ["counterfactual_25"], "question_list": ["counterfactual_243", "counterfactual_250", "counterfactual_249", "counterfactual_247", "counterfactual_248", "counterfactual_245", "counterfactual_241", "counterfactual_242", "counterfactual_246"]}
+{"idx": "190", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_16", "counterfactual_19", "counterfactual_12", "counterfactual_17", "counterfactual_11", "counterfactual_20", "counterfactual_18", "counterfactual_15", "counterfactual_14", "counterfactual_13"]}
+{"idx": "191", "rule_list": ["cipher_7"], "question_list": ["cipher_67"]}
+{"idx": "192", "rule_list": ["puzzle_25"], "question_list": ["puzzle_249", "puzzle_246"]}
+{"idx": "193", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_108", "counterfactual_102", "counterfactual_106"]}
+{"idx": "194", "rule_list": ["cipher_18"], "question_list": ["cipher_175", "cipher_171", "cipher_178", "cipher_172"]}
+{"idx": "195", "rule_list": ["operation_7"], "question_list": ["operation_65", "operation_68", "operation_64", "operation_66", "operation_67"]}
+{"idx": "196", "rule_list": ["puzzle_18"], "question_list": ["puzzle_171", "puzzle_175", "puzzle_179", "puzzle_174", "puzzle_177", "puzzle_172"]}
+{"idx": "197", "rule_list": ["cipher_3"], "question_list": ["cipher_25", "cipher_28", "cipher_21", "cipher_29", "cipher_24", "cipher_22", "cipher_23"]}
+{"idx": "198", "rule_list": ["cipher_2"], "question_list": ["cipher_12", "cipher_18", "cipher_13", "cipher_14", "cipher_16", "cipher_11", "cipher_19", "cipher_17"]}
+{"idx": "199", "rule_list": ["operation_11"], "question_list": ["operation_102", "operation_108", "operation_104", "operation_101", "operation_103", "operation_105", "operation_109", "operation_110", "operation_106"]}
+{"idx": "200", "rule_list": ["operation_17"], "question_list": ["operation_163", "operation_165", "operation_161", "operation_166", "operation_162", "operation_168", "operation_167", "operation_164", "operation_169", "operation_170"]}
+{"idx": "201", "rule_list": ["operation_9"], "question_list": ["operation_86"]}
+{"idx": "202", "rule_list": ["operation_22"], "question_list": ["operation_215", "operation_213"]}
+{"idx": "203", "rule_list": ["cipher_14"], "question_list": ["cipher_133", "cipher_135", "cipher_140"]}
+{"idx": "204", "rule_list": ["logic_15"], "question_list": ["logic_150", "logic_142", "logic_144", "logic_147"]}
+{"idx": "205", "rule_list": ["operation_25"], "question_list": ["operation_244", "operation_248", "operation_247", "operation_241", "operation_250"]}
+{"idx": "206", "rule_list": ["operation_21"], "question_list": ["operation_206", "operation_210", "operation_209", "operation_208", "operation_205", "operation_204"]}
+{"idx": "207", "rule_list": ["cipher_21"], "question_list": ["cipher_206", "cipher_202", "cipher_203", "cipher_210", "cipher_201", "cipher_208", "cipher_204"]}
+{"idx": "208", "rule_list": ["puzzle_10"], "question_list": ["puzzle_100", "puzzle_92", "puzzle_91", "puzzle_95", "puzzle_99", "puzzle_96", "puzzle_94", "puzzle_93"]}
+{"idx": "209", "rule_list": ["counterfactual_25"], "question_list": ["counterfactual_249", "counterfactual_248", "counterfactual_242", "counterfactual_246", "counterfactual_247", "counterfactual_245", "counterfactual_250", "counterfactual_244", "counterfactual_243"]}
+{"idx": "210", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_55", "counterfactual_60", "counterfactual_52", "counterfactual_59", "counterfactual_53", "counterfactual_57", "counterfactual_58", "counterfactual_56", "counterfactual_54", "counterfactual_51"]}
+{"idx": "211", "rule_list": ["operation_6"], "question_list": ["operation_60"]}
+{"idx": "212", "rule_list": ["puzzle_3"], "question_list": ["puzzle_27", "puzzle_28"]}
+{"idx": "213", "rule_list": ["cipher_14"], "question_list": ["cipher_137", "cipher_132", "cipher_134"]}
+{"idx": "214", "rule_list": ["cipher_8"], "question_list": ["cipher_80", "cipher_77", "cipher_79", "cipher_72"]}
+{"idx": "215", "rule_list": ["cipher_21"], "question_list": ["cipher_207", "cipher_205", "cipher_208", "cipher_202", "cipher_209"]}
+{"idx": "216", "rule_list": ["logic_2"], "question_list": ["logic_14", "logic_20", "logic_13", "logic_16", "logic_18", "logic_12"]}
+{"idx": "217", "rule_list": ["operation_13"], "question_list": ["operation_122", "operation_126", "operation_121", "operation_127", "operation_129", "operation_130", "operation_128"]}
+{"idx": "218", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_131", "counterfactual_132", "counterfactual_137", "counterfactual_140", "counterfactual_136", "counterfactual_138", "counterfactual_133", "counterfactual_135"]}
+{"idx": "219", "rule_list": ["puzzle_2"], "question_list": ["puzzle_17", "puzzle_11", "puzzle_20", "puzzle_14", "puzzle_13", "puzzle_19", "puzzle_12", "puzzle_16", "puzzle_15"]}
+{"idx": "220", "rule_list": ["puzzle_22"], "question_list": ["puzzle_216", "puzzle_213", "puzzle_217", "puzzle_220", "puzzle_219", "puzzle_211", "puzzle_215", "puzzle_218", "puzzle_214", "puzzle_212"]}
+{"idx": "221", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_11"]}
+{"idx": "222", "rule_list": ["logic_2"], "question_list": ["logic_13", "logic_16"]}
+{"idx": "223", "rule_list": ["cipher_20"], "question_list": ["cipher_199", "cipher_195", "cipher_198"]}
+{"idx": "224", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_145", "counterfactual_148", "counterfactual_147", "counterfactual_150"]}
+{"idx": "225", "rule_list": ["puzzle_11"], "question_list": ["puzzle_103", "puzzle_102", "puzzle_109", "puzzle_104", "puzzle_108"]}
+{"idx": "226", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_154", "counterfactual_160", "counterfactual_153", "counterfactual_158", "counterfactual_155", "counterfactual_157"]}
+{"idx": "227", "rule_list": ["puzzle_10"], "question_list": ["puzzle_94", "puzzle_97", "puzzle_98", "puzzle_99", "puzzle_93", "puzzle_92", "puzzle_95"]}
+{"idx": "228", "rule_list": ["logic_18"], "question_list": ["logic_180", "logic_176", "logic_173", "logic_178", "logic_171", "logic_177", "logic_172", "logic_179"]}
+{"idx": "229", "rule_list": ["operation_13"], "question_list": ["operation_125", "operation_127", "operation_126", "operation_124", "operation_128", "operation_121", "operation_122", "operation_130", "operation_123"]}
+{"idx": "230", "rule_list": ["operation_19"], "question_list": ["operation_189", "operation_188", "operation_181", "operation_184", "operation_190", "operation_182", "operation_183", "operation_185", "operation_187", "operation_186"]}
+{"idx": "231", "rule_list": ["counterfactual_10"], "question_list": ["counterfactual_95"]}
+{"idx": "232", "rule_list": ["puzzle_20"], "question_list": ["puzzle_199", "puzzle_192"]}
+{"idx": "233", "rule_list": ["puzzle_16"], "question_list": ["puzzle_151", "puzzle_153", "puzzle_152"]}
+{"idx": "234", "rule_list": ["logic_9"], "question_list": ["logic_89", "logic_84", "logic_90", "logic_83"]}
+{"idx": "235", "rule_list": ["puzzle_20"], "question_list": ["puzzle_192", "puzzle_191", "puzzle_197", "puzzle_199", "puzzle_198"]}
+{"idx": "236", "rule_list": ["operation_12"], "question_list": ["operation_117", "operation_113", "operation_112", "operation_116", "operation_120", "operation_119"]}
+{"idx": "237", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_146", "counterfactual_143", "counterfactual_149", "counterfactual_144", "counterfactual_142", "counterfactual_148", "counterfactual_141"]}
+{"idx": "238", "rule_list": ["operation_18"], "question_list": ["operation_174", "operation_171", "operation_176", "operation_173", "operation_179", "operation_177", "operation_180", "operation_172"]}
+{"idx": "239", "rule_list": ["cipher_6"], "question_list": ["cipher_55", "cipher_52", "cipher_58", "cipher_56", "cipher_59", "cipher_53", "cipher_57", "cipher_51", "cipher_60"]}
+{"idx": "240", "rule_list": ["operation_13"], "question_list": ["operation_121", "operation_123", "operation_122", "operation_130", "operation_129", "operation_128", "operation_126", "operation_124", "operation_127", "operation_125"]}
+{"idx": "241", "rule_list": ["puzzle_4"], "question_list": ["puzzle_33"]}
+{"idx": "242", "rule_list": ["cipher_5"], "question_list": ["cipher_42", "cipher_47"]}
+{"idx": "243", "rule_list": ["cipher_13"], "question_list": ["cipher_123", "cipher_126", "cipher_127"]}
+{"idx": "244", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_51", "counterfactual_55", "counterfactual_52", "counterfactual_53"]}
+{"idx": "245", "rule_list": ["operation_19"], "question_list": ["operation_184", "operation_186", "operation_185", "operation_183", "operation_187"]}
+{"idx": "246", "rule_list": ["logic_21"], "question_list": ["logic_210", "logic_205", "logic_207", "logic_202", "logic_204", "logic_206"]}
+{"idx": "247", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_81", "counterfactual_87", "counterfactual_90", "counterfactual_84", "counterfactual_86", "counterfactual_88", "counterfactual_85"]}
+{"idx": "248", "rule_list": ["cipher_2"], "question_list": ["cipher_16", "cipher_11", "cipher_12", "cipher_17", "cipher_13", "cipher_19", "cipher_18", "cipher_20"]}
+{"idx": "249", "rule_list": ["counterfactual_3"], "question_list": ["counterfactual_28", "counterfactual_30", "counterfactual_27", "counterfactual_23", "counterfactual_29", "counterfactual_24", "counterfactual_25", "counterfactual_21", "counterfactual_26"]}
+{"idx": "250", "rule_list": ["logic_14"], "question_list": ["logic_135", "logic_136", "logic_133", "logic_138", "logic_134", "logic_139", "logic_132", "logic_140", "logic_131", "logic_137"]}
+{"idx": "251", "rule_list": ["puzzle_17"], "question_list": ["puzzle_168"]}
+{"idx": "252", "rule_list": ["operation_17"], "question_list": ["operation_166", "operation_161"]}
+{"idx": "253", "rule_list": ["cipher_18"], "question_list": ["cipher_171", "cipher_178", "cipher_175"]}
+{"idx": "254", "rule_list": ["puzzle_17"], "question_list": ["puzzle_170", "puzzle_167", "puzzle_163", "puzzle_166"]}
+{"idx": "255", "rule_list": ["cipher_11"], "question_list": ["cipher_105", "cipher_103", "cipher_110", "cipher_102", "cipher_104"]}
+{"idx": "256", "rule_list": ["logic_13"], "question_list": ["logic_121", "logic_130", "logic_129", "logic_128", "logic_127", "logic_125"]}
+{"idx": "257", "rule_list": ["cipher_21"], "question_list": ["cipher_208", "cipher_210", "cipher_205", "cipher_207", "cipher_209", "cipher_203", "cipher_202"]}
+{"idx": "258", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_169", "counterfactual_162", "counterfactual_161", "counterfactual_170", "counterfactual_167", "counterfactual_164", "counterfactual_165", "counterfactual_168"]}
+{"idx": "259", "rule_list": ["puzzle_24"], "question_list": ["puzzle_235", "puzzle_237", "puzzle_232", "puzzle_231", "puzzle_236", "puzzle_240", "puzzle_233", "puzzle_238", "puzzle_239"]}
+{"idx": "260", "rule_list": ["cipher_2"], "question_list": ["cipher_17", "cipher_20", "cipher_16", "cipher_11", "cipher_14", "cipher_15", "cipher_13", "cipher_12", "cipher_18", "cipher_19"]}
+{"idx": "261", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_162"]}
+{"idx": "262", "rule_list": ["operation_6"], "question_list": ["operation_54", "operation_57"]}
+{"idx": "263", "rule_list": ["puzzle_23"], "question_list": ["puzzle_228", "puzzle_221", "puzzle_227"]}
+{"idx": "264", "rule_list": ["puzzle_7"], "question_list": ["puzzle_63", "puzzle_65", "puzzle_64", "puzzle_69"]}
+{"idx": "265", "rule_list": ["puzzle_16"], "question_list": ["puzzle_153", "puzzle_160", "puzzle_157", "puzzle_155", "puzzle_159"]}
+{"idx": "266", "rule_list": ["operation_5"], "question_list": ["operation_46", "operation_41", "operation_47", "operation_45", "operation_43", "operation_49"]}
+{"idx": "267", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_232", "counterfactual_235", "counterfactual_234", "counterfactual_239", "counterfactual_231", "counterfactual_240", "counterfactual_237"]}
+{"idx": "268", "rule_list": ["cipher_8"], "question_list": ["cipher_80", "cipher_72", "cipher_75", "cipher_73", "cipher_74", "cipher_76", "cipher_77", "cipher_78"]}
+{"idx": "269", "rule_list": ["operation_13"], "question_list": ["operation_127", "operation_129", "operation_130", "operation_124", "operation_126", "operation_122", "operation_121", "operation_123", "operation_125"]}
+{"idx": "270", "rule_list": ["operation_1"], "question_list": ["operation_9", "operation_4", "operation_6", "operation_10", "operation_2", "operation_3", "operation_5", "operation_1", "operation_7", "operation_8"]}
+{"idx": "271", "rule_list": ["cipher_4"], "question_list": ["cipher_38"]}
+{"idx": "272", "rule_list": ["puzzle_11"], "question_list": ["puzzle_102", "puzzle_109"]}
+{"idx": "273", "rule_list": ["logic_3"], "question_list": ["logic_30", "logic_21", "logic_24"]}
+{"idx": "274", "rule_list": ["puzzle_24"], "question_list": ["puzzle_240", "puzzle_239", "puzzle_234", "puzzle_238"]}
+{"idx": "275", "rule_list": ["cipher_6"], "question_list": ["cipher_59", "cipher_51", "cipher_56", "cipher_57", "cipher_60"]}
+{"idx": "276", "rule_list": ["cipher_14"], "question_list": ["cipher_133", "cipher_138", "cipher_136", "cipher_140", "cipher_135", "cipher_139"]}
+{"idx": "277", "rule_list": ["logic_19"], "question_list": ["logic_188", "logic_186", "logic_187", "logic_181", "logic_182", "logic_183", "logic_184"]}
+{"idx": "278", "rule_list": ["cipher_20"], "question_list": ["cipher_197", "cipher_195", "cipher_191", "cipher_199", "cipher_196", "cipher_194", "cipher_198", "cipher_192"]}
+{"idx": "279", "rule_list": ["operation_11"], "question_list": ["operation_103", "operation_106", "operation_107", "operation_108", "operation_110", "operation_101", "operation_109", "operation_104", "operation_105"]}
+{"idx": "280", "rule_list": ["puzzle_8"], "question_list": ["puzzle_73", "puzzle_80", "puzzle_76", "puzzle_72", "puzzle_75", "puzzle_78", "puzzle_71", "puzzle_79", "puzzle_74", "puzzle_77"]}
+{"idx": "281", "rule_list": ["puzzle_1"], "question_list": ["puzzle_9"]}
+{"idx": "282", "rule_list": ["puzzle_7"], "question_list": ["puzzle_63", "puzzle_68"]}
+{"idx": "283", "rule_list": ["puzzle_24"], "question_list": ["puzzle_240", "puzzle_238", "puzzle_234"]}
+{"idx": "284", "rule_list": ["cipher_10"], "question_list": ["cipher_100", "cipher_97", "cipher_92", "cipher_96"]}
+{"idx": "285", "rule_list": ["logic_5"], "question_list": ["logic_47", "logic_50", "logic_49", "logic_46", "logic_45"]}
+{"idx": "286", "rule_list": ["puzzle_2"], "question_list": ["puzzle_14", "puzzle_12", "puzzle_20", "puzzle_19", "puzzle_18", "puzzle_16"]}
+{"idx": "287", "rule_list": ["logic_6"], "question_list": ["logic_58", "logic_59", "logic_54", "logic_57", "logic_51", "logic_52", "logic_55"]}
+{"idx": "288", "rule_list": ["puzzle_9"], "question_list": ["puzzle_84", "puzzle_87", "puzzle_88", "puzzle_89", "puzzle_86", "puzzle_83", "puzzle_82", "puzzle_85"]}
+{"idx": "289", "rule_list": ["cipher_1"], "question_list": ["cipher_5", "cipher_3", "cipher_4", "cipher_9", "cipher_8", "cipher_6", "cipher_7", "cipher_1", "cipher_2"]}
+{"idx": "290", "rule_list": ["logic_4"], "question_list": ["logic_39", "logic_36", "logic_37", "logic_34", "logic_32", "logic_40", "logic_38", "logic_31", "logic_35", "logic_33"]}
+{"idx": "291", "rule_list": ["operation_15"], "question_list": ["operation_149"]}
+{"idx": "292", "rule_list": ["operation_1"], "question_list": ["operation_4", "operation_3"]}
+{"idx": "293", "rule_list": ["operation_6"], "question_list": ["operation_59", "operation_51", "operation_53"]}
+{"idx": "294", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_236", "counterfactual_235", "counterfactual_234", "counterfactual_231"]}
+{"idx": "295", "rule_list": ["logic_13"], "question_list": ["logic_127", "logic_128", "logic_125", "logic_124", "logic_122"]}
+{"idx": "296", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_107", "counterfactual_106", "counterfactual_109", "counterfactual_103", "counterfactual_102", "counterfactual_105"]}
+{"idx": "297", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_211", "counterfactual_215", "counterfactual_217", "counterfactual_212", "counterfactual_219", "counterfactual_216", "counterfactual_220"]}
+{"idx": "298", "rule_list": ["counterfactual_20"], "question_list": ["counterfactual_197", "counterfactual_200", "counterfactual_191", "counterfactual_198", "counterfactual_196", "counterfactual_199", "counterfactual_192", "counterfactual_194"]}
+{"idx": "299", "rule_list": ["cipher_7"], "question_list": ["cipher_69", "cipher_68", "cipher_65", "cipher_61", "cipher_67", "cipher_62", "cipher_64", "cipher_66", "cipher_70"]}
+{"idx": "300", "rule_list": ["cipher_1"], "question_list": ["cipher_8", "cipher_10", "cipher_1", "cipher_7", "cipher_2", "cipher_3", "cipher_6", "cipher_4", "cipher_9", "cipher_5"]}
+{"idx": "301", "rule_list": ["logic_20"], "question_list": ["logic_193"]}
+{"idx": "302", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_58", "counterfactual_54"]}
+{"idx": "303", "rule_list": ["counterfactual_19"], "question_list": ["counterfactual_183", "counterfactual_188", "counterfactual_189"]}
+{"idx": "304", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_85", "counterfactual_89", "counterfactual_81", "counterfactual_86"]}
+{"idx": "305", "rule_list": ["puzzle_20"], "question_list": ["puzzle_192", "puzzle_195", "puzzle_193", "puzzle_196", "puzzle_197"]}
+{"idx": "306", "rule_list": ["puzzle_14"], "question_list": ["puzzle_140", "puzzle_136", "puzzle_139", "puzzle_132", "puzzle_131", "puzzle_135"]}
+{"idx": "307", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_15", "counterfactual_11", "counterfactual_20", "counterfactual_17", "counterfactual_14", "counterfactual_12", "counterfactual_13"]}
+{"idx": "308", "rule_list": ["logic_12"], "question_list": ["logic_120", "logic_111", "logic_118", "logic_117", "logic_119", "logic_116", "logic_112", "logic_113"]}
+{"idx": "309", "rule_list": ["puzzle_18"], "question_list": ["puzzle_171", "puzzle_175", "puzzle_180", "puzzle_176", "puzzle_177", "puzzle_179", "puzzle_172", "puzzle_178", "puzzle_173"]}
+{"idx": "310", "rule_list": ["operation_15"], "question_list": ["operation_142", "operation_149", "operation_148", "operation_150", "operation_141", "operation_147", "operation_145", "operation_144", "operation_143", "operation_146"]}
+{"idx": "311", "rule_list": ["cipher_13"], "question_list": ["cipher_130"]}
+{"idx": "312", "rule_list": ["logic_13"], "question_list": ["logic_121", "logic_122"]}
+{"idx": "313", "rule_list": ["puzzle_4"], "question_list": ["puzzle_36", "puzzle_40", "puzzle_39"]}
+{"idx": "314", "rule_list": ["operation_6"], "question_list": ["operation_60", "operation_54", "operation_53", "operation_55"]}
+{"idx": "315", "rule_list": ["logic_10"], "question_list": ["logic_91", "logic_99", "logic_92", "logic_94", "logic_93"]}
+{"idx": "316", "rule_list": ["puzzle_11"], "question_list": ["puzzle_107", "puzzle_103", "puzzle_105", "puzzle_110", "puzzle_108", "puzzle_101"]}
+{"idx": "317", "rule_list": ["counterfactual_7"], "question_list": ["counterfactual_61", "counterfactual_62", "counterfactual_70", "counterfactual_63", "counterfactual_67", "counterfactual_69", "counterfactual_66"]}
+{"idx": "318", "rule_list": ["puzzle_5"], "question_list": ["puzzle_44", "puzzle_46", "puzzle_42", "puzzle_45", "puzzle_41", "puzzle_48", "puzzle_50", "puzzle_49"]}
+{"idx": "319", "rule_list": ["cipher_10"], "question_list": ["cipher_94", "cipher_100", "cipher_91", "cipher_98", "cipher_93", "cipher_99", "cipher_95", "cipher_92", "cipher_96"]}
+{"idx": "320", "rule_list": ["operation_22"], "question_list": ["operation_213", "operation_212", "operation_214", "operation_217", "operation_218", "operation_220", "operation_216", "operation_211", "operation_219", "operation_215"]}
+{"idx": "321", "rule_list": ["cipher_2"], "question_list": ["cipher_17"]}
+{"idx": "322", "rule_list": ["operation_13"], "question_list": ["operation_129", "operation_124"]}
+{"idx": "323", "rule_list": ["cipher_17"], "question_list": ["cipher_165", "cipher_163", "cipher_161"]}
+{"idx": "324", "rule_list": ["logic_19"], "question_list": ["logic_184", "logic_188", "logic_182", "logic_186"]}
+{"idx": "325", "rule_list": ["puzzle_5"], "question_list": ["puzzle_42", "puzzle_44", "puzzle_50", "puzzle_41", "puzzle_48"]}
+{"idx": "326", "rule_list": ["cipher_12"], "question_list": ["cipher_116", "cipher_119", "cipher_114", "cipher_113", "cipher_111", "cipher_112"]}
+{"idx": "327", "rule_list": ["cipher_24"], "question_list": ["cipher_239", "cipher_237", "cipher_235", "cipher_236", "cipher_234", "cipher_232", "cipher_238"]}
+{"idx": "328", "rule_list": ["puzzle_6"], "question_list": ["puzzle_55", "puzzle_52", "puzzle_53", "puzzle_60", "puzzle_56", "puzzle_59", "puzzle_51", "puzzle_57"]}
+{"idx": "329", "rule_list": ["puzzle_2"], "question_list": ["puzzle_14", "puzzle_20", "puzzle_11", "puzzle_13", "puzzle_15", "puzzle_18", "puzzle_16", "puzzle_17", "puzzle_12"]}
+{"idx": "330", "rule_list": ["cipher_14"], "question_list": ["cipher_131", "cipher_136", "cipher_138", "cipher_134", "cipher_139", "cipher_137", "cipher_135", "cipher_132", "cipher_140", "cipher_133"]}
+{"idx": "331", "rule_list": ["cipher_10"], "question_list": ["cipher_96"]}
+{"idx": "332", "rule_list": ["operation_14"], "question_list": ["operation_134", "operation_136"]}
+{"idx": "333", "rule_list": ["puzzle_10"], "question_list": ["puzzle_94", "puzzle_92", "puzzle_100"]}
+{"idx": "334", "rule_list": ["logic_16"], "question_list": ["logic_155", "logic_152", "logic_154", "logic_151"]}
+{"idx": "335", "rule_list": ["puzzle_25"], "question_list": ["puzzle_249", "puzzle_241", "puzzle_248", "puzzle_247", "puzzle_243"]}
+{"idx": "336", "rule_list": ["puzzle_17"], "question_list": ["puzzle_166", "puzzle_168", "puzzle_162", "puzzle_167", "puzzle_163", "puzzle_161"]}
+{"idx": "337", "rule_list": ["puzzle_1"], "question_list": ["puzzle_6", "puzzle_7", "puzzle_10", "puzzle_5", "puzzle_8", "puzzle_1", "puzzle_9"]}
+{"idx": "338", "rule_list": ["puzzle_25"], "question_list": ["puzzle_244", "puzzle_246", "puzzle_241", "puzzle_250", "puzzle_247", "puzzle_242", "puzzle_249", "puzzle_245"]}
+{"idx": "339", "rule_list": ["cipher_14"], "question_list": ["cipher_133", "cipher_140", "cipher_131", "cipher_136", "cipher_132", "cipher_134", "cipher_137", "cipher_138", "cipher_135"]}
+{"idx": "340", "rule_list": ["counterfactual_19"], "question_list": ["counterfactual_183", "counterfactual_182", "counterfactual_189", "counterfactual_181", "counterfactual_188", "counterfactual_187", "counterfactual_190", "counterfactual_186", "counterfactual_185", "counterfactual_184"]}
+{"idx": "341", "rule_list": ["puzzle_10"], "question_list": ["puzzle_99"]}
+{"idx": "342", "rule_list": ["logic_19"], "question_list": ["logic_183", "logic_185"]}
+{"idx": "343", "rule_list": ["cipher_1"], "question_list": ["cipher_9", "cipher_4", "cipher_6"]}
+{"idx": "344", "rule_list": ["logic_12"], "question_list": ["logic_116", "logic_114", "logic_119", "logic_115"]}
+{"idx": "345", "rule_list": ["cipher_23"], "question_list": ["cipher_227", "cipher_221", "cipher_222", "cipher_224", "cipher_229"]}
+{"idx": "346", "rule_list": ["operation_25"], "question_list": ["operation_244", "operation_241", "operation_248", "operation_247", "operation_242", "operation_249"]}
+{"idx": "347", "rule_list": ["operation_4"], "question_list": ["operation_33", "operation_40", "operation_35", "operation_37", "operation_39", "operation_36", "operation_31"]}
+{"idx": "348", "rule_list": ["puzzle_6"], "question_list": ["puzzle_60", "puzzle_56", "puzzle_57", "puzzle_53", "puzzle_54", "puzzle_55", "puzzle_59", "puzzle_58"]}
+{"idx": "349", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_53", "counterfactual_55", "counterfactual_59", "counterfactual_56", "counterfactual_54", "counterfactual_57", "counterfactual_60", "counterfactual_51", "counterfactual_52"]}
+{"idx": "350", "rule_list": ["counterfactual_10"], "question_list": ["counterfactual_96", "counterfactual_93", "counterfactual_91", "counterfactual_97", "counterfactual_92", "counterfactual_94", "counterfactual_98", "counterfactual_99", "counterfactual_95", "counterfactual_100"]}
+{"idx": "351", "rule_list": ["counterfactual_3"], "question_list": ["counterfactual_26"]}
+{"idx": "352", "rule_list": ["logic_4"], "question_list": ["logic_36", "logic_37"]}
+{"idx": "353", "rule_list": ["puzzle_18"], "question_list": ["puzzle_176", "puzzle_178", "puzzle_174"]}
+{"idx": "354", "rule_list": ["operation_12"], "question_list": ["operation_120", "operation_117", "operation_115", "operation_116"]}
+{"idx": "355", "rule_list": ["cipher_12"], "question_list": ["cipher_113", "cipher_120", "cipher_111", "cipher_116", "cipher_117"]}
+{"idx": "356", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_135", "counterfactual_136", "counterfactual_131", "counterfactual_139", "counterfactual_137", "counterfactual_134"]}
+{"idx": "357", "rule_list": ["puzzle_21"], "question_list": ["puzzle_209", "puzzle_201", "puzzle_206", "puzzle_210", "puzzle_202", "puzzle_208", "puzzle_203"]}
+{"idx": "358", "rule_list": ["logic_10"], "question_list": ["logic_92", "logic_93", "logic_97", "logic_96", "logic_94", "logic_100", "logic_95", "logic_91"]}
+{"idx": "359", "rule_list": ["cipher_10"], "question_list": ["cipher_91", "cipher_100", "cipher_99", "cipher_97", "cipher_98", "cipher_95", "cipher_94", "cipher_96", "cipher_92"]}
+{"idx": "360", "rule_list": ["puzzle_12"], "question_list": ["puzzle_117", "puzzle_113", "puzzle_118", "puzzle_116", "puzzle_112", "puzzle_114", "puzzle_111", "puzzle_119", "puzzle_115", "puzzle_120"]}
+{"idx": "361", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_142"]}
+{"idx": "362", "rule_list": ["puzzle_13"], "question_list": ["puzzle_125", "puzzle_126"]}
+{"idx": "363", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_18", "counterfactual_13", "counterfactual_20"]}
+{"idx": "364", "rule_list": ["counterfactual_12"], "question_list": ["counterfactual_116", "counterfactual_120", "counterfactual_113", "counterfactual_117"]}
+{"idx": "365", "rule_list": ["logic_22"], "question_list": ["logic_212", "logic_213", "logic_215", "logic_216", "logic_217"]}
+{"idx": "366", "rule_list": ["logic_5"], "question_list": ["logic_47", "logic_46", "logic_45", "logic_49", "logic_43", "logic_41"]}
+{"idx": "367", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_224", "counterfactual_229", "counterfactual_226", "counterfactual_228", "counterfactual_223", "counterfactual_222", "counterfactual_230"]}
+{"idx": "368", "rule_list": ["operation_5"], "question_list": ["operation_44", "operation_45", "operation_48", "operation_50", "operation_47", "operation_46", "operation_43", "operation_41"]}
+{"idx": "369", "rule_list": ["logic_18"], "question_list": ["logic_171", "logic_180", "logic_172", "logic_174", "logic_178", "logic_176", "logic_175", "logic_179", "logic_177"]}
+{"idx": "370", "rule_list": ["puzzle_23"], "question_list": ["puzzle_225", "puzzle_227", "puzzle_222", "puzzle_223", "puzzle_226", "puzzle_230", "puzzle_228", "puzzle_224", "puzzle_229", "puzzle_221"]}
+{"idx": "371", "rule_list": ["puzzle_2"], "question_list": ["puzzle_16"]}
+{"idx": "372", "rule_list": ["puzzle_7"], "question_list": ["puzzle_63", "puzzle_64"]}
+{"idx": "373", "rule_list": ["logic_22"], "question_list": ["logic_216", "logic_212", "logic_219"]}
+{"idx": "374", "rule_list": ["puzzle_11"], "question_list": ["puzzle_102", "puzzle_109", "puzzle_103", "puzzle_105"]}
+{"idx": "375", "rule_list": ["operation_25"], "question_list": ["operation_248", "operation_242", "operation_249", "operation_245", "operation_247"]}
+{"idx": "376", "rule_list": ["cipher_17"], "question_list": ["cipher_170", "cipher_162", "cipher_161", "cipher_164", "cipher_169", "cipher_163"]}
+{"idx": "377", "rule_list": ["logic_4"], "question_list": ["logic_37", "logic_31", "logic_38", "logic_39", "logic_35", "logic_34", "logic_40"]}
+{"idx": "378", "rule_list": ["operation_16"], "question_list": ["operation_153", "operation_160", "operation_159", "operation_152", "operation_154", "operation_157", "operation_156", "operation_155"]}
+{"idx": "379", "rule_list": ["operation_22"], "question_list": ["operation_220", "operation_216", "operation_213", "operation_212", "operation_218", "operation_217", "operation_219", "operation_211", "operation_214"]}
+{"idx": "380", "rule_list": ["operation_21"], "question_list": ["operation_204", "operation_202", "operation_207", "operation_205", "operation_206", "operation_209", "operation_210", "operation_208", "operation_201", "operation_203"]}
+{"idx": "381", "rule_list": ["operation_17"], "question_list": ["operation_161"]}
+{"idx": "382", "rule_list": ["counterfactual_20"], "question_list": ["counterfactual_199", "counterfactual_191"]}
+{"idx": "383", "rule_list": ["logic_11"], "question_list": ["logic_101", "logic_109", "logic_106"]}
+{"idx": "384", "rule_list": ["cipher_11"], "question_list": ["cipher_103", "cipher_108", "cipher_105", "cipher_102"]}
+{"idx": "385", "rule_list": ["puzzle_11"], "question_list": ["puzzle_106", "puzzle_102", "puzzle_109", "puzzle_110", "puzzle_108"]}
+{"idx": "386", "rule_list": ["logic_2"], "question_list": ["logic_12", "logic_14", "logic_11", "logic_13", "logic_16", "logic_15"]}
+{"idx": "387", "rule_list": ["counterfactual_10"], "question_list": ["counterfactual_94", "counterfactual_91", "counterfactual_98", "counterfactual_100", "counterfactual_92", "counterfactual_95", "counterfactual_97"]}
+{"idx": "388", "rule_list": ["logic_12"], "question_list": ["logic_112", "logic_115", "logic_118", "logic_111", "logic_116", "logic_114", "logic_119", "logic_113"]}
+{"idx": "389", "rule_list": ["cipher_23"], "question_list": ["cipher_225", "cipher_229", "cipher_228", "cipher_224", "cipher_227", "cipher_223", "cipher_222", "cipher_230", "cipher_226"]}
+{"idx": "390", "rule_list": ["counterfactual_20"], "question_list": ["counterfactual_200", "counterfactual_193", "counterfactual_199", "counterfactual_195", "counterfactual_194", "counterfactual_198", "counterfactual_196", "counterfactual_191", "counterfactual_192", "counterfactual_197"]}
+{"idx": "391", "rule_list": ["operation_25"], "question_list": ["operation_248"]}
+{"idx": "392", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_238", "counterfactual_240"]}
+{"idx": "393", "rule_list": ["counterfactual_10"], "question_list": ["counterfactual_92", "counterfactual_94", "counterfactual_97"]}
+{"idx": "394", "rule_list": ["operation_9"], "question_list": ["operation_81", "operation_86", "operation_83", "operation_84"]}
+{"idx": "395", "rule_list": ["cipher_22"], "question_list": ["cipher_218", "cipher_216", "cipher_219", "cipher_217", "cipher_215"]}
+{"idx": "396", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_219", "counterfactual_217", "counterfactual_220", "counterfactual_212", "counterfactual_215", "counterfactual_216"]}
+{"idx": "397", "rule_list": ["logic_1"], "question_list": ["logic_2", "logic_4", "logic_3", "logic_6", "logic_7", "logic_8", "logic_10"]}
+{"idx": "398", "rule_list": ["logic_23"], "question_list": ["logic_221", "logic_226", "logic_222", "logic_228", "logic_224", "logic_227", "logic_223", "logic_225"]}
+{"idx": "399", "rule_list": ["puzzle_12"], "question_list": ["puzzle_120", "puzzle_118", "puzzle_113", "puzzle_114", "puzzle_119", "puzzle_112", "puzzle_117", "puzzle_116", "puzzle_111"]}
+{"idx": "400", "rule_list": ["cipher_10"], "question_list": ["cipher_99", "cipher_96", "cipher_97", "cipher_92", "cipher_100", "cipher_98", "cipher_94", "cipher_91", "cipher_95", "cipher_93"]}
+{"idx": "401", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_132"]}
+{"idx": "402", "rule_list": ["cipher_17"], "question_list": ["cipher_168", "cipher_169"]}
+{"idx": "403", "rule_list": ["operation_15"], "question_list": ["operation_141", "operation_142", "operation_149"]}
+{"idx": "404", "rule_list": ["counterfactual_20"], "question_list": ["counterfactual_193", "counterfactual_195", "counterfactual_194", "counterfactual_197"]}
+{"idx": "405", "rule_list": ["logic_12"], "question_list": ["logic_113", "logic_115", "logic_120", "logic_112", "logic_119"]}
+{"idx": "406", "rule_list": ["logic_18"], "question_list": ["logic_171", "logic_176", "logic_175", "logic_179", "logic_172", "logic_173"]}
+{"idx": "407", "rule_list": ["logic_1"], "question_list": ["logic_9", "logic_7", "logic_4", "logic_1", "logic_5", "logic_10", "logic_2"]}
+{"idx": "408", "rule_list": ["operation_10"], "question_list": ["operation_94", "operation_95", "operation_97", "operation_93", "operation_98", "operation_99", "operation_96", "operation_100"]}
+{"idx": "409", "rule_list": ["puzzle_13"], "question_list": ["puzzle_128", "puzzle_129", "puzzle_123", "puzzle_121", "puzzle_126", "puzzle_127", "puzzle_122", "puzzle_125", "puzzle_130"]}
+{"idx": "410", "rule_list": ["operation_14"], "question_list": ["operation_139", "operation_137", "operation_140", "operation_138", "operation_135", "operation_132", "operation_131", "operation_136", "operation_133", "operation_134"]}
+{"idx": "411", "rule_list": ["cipher_7"], "question_list": ["cipher_70"]}
+{"idx": "412", "rule_list": ["operation_4"], "question_list": ["operation_31", "operation_38"]}
+{"idx": "413", "rule_list": ["puzzle_3"], "question_list": ["puzzle_22", "puzzle_21", "puzzle_29"]}
+{"idx": "414", "rule_list": ["cipher_25"], "question_list": ["cipher_250", "cipher_247", "cipher_248", "cipher_246"]}
+{"idx": "415", "rule_list": ["operation_2"], "question_list": ["operation_18", "operation_16", "operation_13", "operation_17", "operation_14"]}
+{"idx": "416", "rule_list": ["logic_8"], "question_list": ["logic_77", "logic_74", "logic_72", "logic_75", "logic_73", "logic_80"]}
+{"idx": "417", "rule_list": ["logic_1"], "question_list": ["logic_6", "logic_2", "logic_7", "logic_10", "logic_3", "logic_5", "logic_4"]}
+{"idx": "418", "rule_list": ["counterfactual_13"], "question_list": ["counterfactual_127", "counterfactual_124", "counterfactual_128", "counterfactual_126", "counterfactual_123", "counterfactual_122", "counterfactual_130", "counterfactual_121"]}
+{"idx": "419", "rule_list": ["operation_18"], "question_list": ["operation_171", "operation_174", "operation_173", "operation_176", "operation_177", "operation_175", "operation_180", "operation_172", "operation_178"]}
+{"idx": "420", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_107", "counterfactual_104", "counterfactual_109", "counterfactual_108", "counterfactual_110", "counterfactual_101", "counterfactual_103", "counterfactual_102", "counterfactual_106", "counterfactual_105"]}
+{"idx": "421", "rule_list": ["logic_12"], "question_list": ["logic_116"]}
+{"idx": "422", "rule_list": ["logic_12"], "question_list": ["logic_118", "logic_117"]}
+{"idx": "423", "rule_list": ["puzzle_12"], "question_list": ["puzzle_111", "puzzle_112", "puzzle_120"]}
+{"idx": "424", "rule_list": ["cipher_22"], "question_list": ["cipher_218", "cipher_220", "cipher_211", "cipher_216"]}
+{"idx": "425", "rule_list": ["cipher_21"], "question_list": ["cipher_207", "cipher_210", "cipher_205", "cipher_202", "cipher_206"]}
+{"idx": "426", "rule_list": ["operation_5"], "question_list": ["operation_46", "operation_43", "operation_49", "operation_48", "operation_47", "operation_44"]}
+{"idx": "427", "rule_list": ["counterfactual_1"], "question_list": ["counterfactual_2", "counterfactual_10", "counterfactual_5", "counterfactual_9", "counterfactual_4", "counterfactual_8", "counterfactual_6"]}
+{"idx": "428", "rule_list": ["operation_8"], "question_list": ["operation_72", "operation_77", "operation_75", "operation_73", "operation_71", "operation_76", "operation_79", "operation_78"]}
+{"idx": "429", "rule_list": ["puzzle_20"], "question_list": ["puzzle_193", "puzzle_195", "puzzle_198", "puzzle_196", "puzzle_197", "puzzle_200", "puzzle_199", "puzzle_191", "puzzle_194"]}
+{"idx": "430", "rule_list": ["puzzle_24"], "question_list": ["puzzle_239", "puzzle_231", "puzzle_232", "puzzle_233", "puzzle_238", "puzzle_235", "puzzle_234", "puzzle_237", "puzzle_240", "puzzle_236"]}
+{"idx": "431", "rule_list": ["puzzle_3"], "question_list": ["puzzle_21"]}
+{"idx": "432", "rule_list": ["puzzle_15"], "question_list": ["puzzle_142", "puzzle_143"]}
+{"idx": "433", "rule_list": ["operation_18"], "question_list": ["operation_177", "operation_179", "operation_175"]}
+{"idx": "434", "rule_list": ["puzzle_3"], "question_list": ["puzzle_23", "puzzle_21", "puzzle_24", "puzzle_27"]}
+{"idx": "435", "rule_list": ["cipher_11"], "question_list": ["cipher_105", "cipher_101", "cipher_110", "cipher_107", "cipher_102"]}
+{"idx": "436", "rule_list": ["logic_19"], "question_list": ["logic_187", "logic_181", "logic_184", "logic_182", "logic_186", "logic_183"]}
+{"idx": "437", "rule_list": ["counterfactual_25"], "question_list": ["counterfactual_247", "counterfactual_248", "counterfactual_246", "counterfactual_244", "counterfactual_241", "counterfactual_250", "counterfactual_249"]}
+{"idx": "438", "rule_list": ["logic_1"], "question_list": ["logic_7", "logic_5", "logic_4", "logic_8", "logic_10", "logic_2", "logic_6", "logic_1"]}
+{"idx": "439", "rule_list": ["operation_10"], "question_list": ["operation_98", "operation_99", "operation_100", "operation_97", "operation_92", "operation_94", "operation_95", "operation_96", "operation_91"]}
+{"idx": "440", "rule_list": ["operation_16"], "question_list": ["operation_155", "operation_153", "operation_160", "operation_159", "operation_157", "operation_158", "operation_151", "operation_154", "operation_152", "operation_156"]}
+{"idx": "441", "rule_list": ["puzzle_25"], "question_list": ["puzzle_248"]}
+{"idx": "442", "rule_list": ["puzzle_16"], "question_list": ["puzzle_155", "puzzle_152"]}
+{"idx": "443", "rule_list": ["operation_2"], "question_list": ["operation_20", "operation_19", "operation_16"]}
+{"idx": "444", "rule_list": ["puzzle_18"], "question_list": ["puzzle_175", "puzzle_176", "puzzle_173", "puzzle_178"]}
+{"idx": "445", "rule_list": ["operation_25"], "question_list": ["operation_250", "operation_249", "operation_241", "operation_245", "operation_248"]}
+{"idx": "446", "rule_list": ["logic_6"], "question_list": ["logic_53", "logic_60", "logic_54", "logic_59", "logic_57", "logic_52"]}
+{"idx": "447", "rule_list": ["cipher_2"], "question_list": ["cipher_16", "cipher_20", "cipher_12", "cipher_19", "cipher_15", "cipher_11", "cipher_14"]}
+{"idx": "448", "rule_list": ["operation_12"], "question_list": ["operation_115", "operation_118", "operation_112", "operation_120", "operation_111", "operation_119", "operation_114", "operation_117"]}
+{"idx": "449", "rule_list": ["logic_13"], "question_list": ["logic_128", "logic_125", "logic_121", "logic_127", "logic_123", "logic_122", "logic_129", "logic_130", "logic_126"]}
+{"idx": "450", "rule_list": ["logic_1"], "question_list": ["logic_4", "logic_10", "logic_5", "logic_9", "logic_1", "logic_8", "logic_2", "logic_6", "logic_3", "logic_7"]}
+{"idx": "451", "rule_list": ["logic_2"], "question_list": ["logic_12"]}
+{"idx": "452", "rule_list": ["logic_21"], "question_list": ["logic_208", "logic_206"]}
+{"idx": "453", "rule_list": ["operation_25"], "question_list": ["operation_244", "operation_243", "operation_250"]}
+{"idx": "454", "rule_list": ["puzzle_5"], "question_list": ["puzzle_44", "puzzle_46", "puzzle_49", "puzzle_41"]}
+{"idx": "455", "rule_list": ["logic_8"], "question_list": ["logic_72", "logic_75", "logic_77", "logic_74", "logic_80"]}
+{"idx": "456", "rule_list": ["operation_5"], "question_list": ["operation_44", "operation_43", "operation_46", "operation_49", "operation_42", "operation_45"]}
+{"idx": "457", "rule_list": ["logic_8"], "question_list": ["logic_73", "logic_77", "logic_72", "logic_75", "logic_76", "logic_78", "logic_71"]}
+{"idx": "458", "rule_list": ["cipher_2"], "question_list": ["cipher_12", "cipher_20", "cipher_11", "cipher_19", "cipher_18", "cipher_13", "cipher_14", "cipher_15"]}
+{"idx": "459", "rule_list": ["operation_25"], "question_list": ["operation_245", "operation_241", "operation_244", "operation_249", "operation_248", "operation_242", "operation_250", "operation_246", "operation_247"]}
+{"idx": "460", "rule_list": ["puzzle_18"], "question_list": ["puzzle_175", "puzzle_178", "puzzle_179", "puzzle_172", "puzzle_174", "puzzle_171", "puzzle_177", "puzzle_176", "puzzle_173", "puzzle_180"]}
+{"idx": "461", "rule_list": ["cipher_24"], "question_list": ["cipher_237"]}
+{"idx": "462", "rule_list": ["logic_16"], "question_list": ["logic_159", "logic_160"]}
+{"idx": "463", "rule_list": ["logic_23"], "question_list": ["logic_227", "logic_223", "logic_230"]}
+{"idx": "464", "rule_list": ["logic_18"], "question_list": ["logic_175", "logic_172", "logic_176", "logic_173"]}
+{"idx": "465", "rule_list": ["operation_6"], "question_list": ["operation_57", "operation_58", "operation_53", "operation_51", "operation_54"]}
+{"idx": "466", "rule_list": ["logic_12"], "question_list": ["logic_120", "logic_116", "logic_112", "logic_111", "logic_117", "logic_114"]}
+{"idx": "467", "rule_list": ["puzzle_2"], "question_list": ["puzzle_15", "puzzle_11", "puzzle_19", "puzzle_12", "puzzle_20", "puzzle_16", "puzzle_13"]}
+{"idx": "468", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_147", "counterfactual_143", "counterfactual_142", "counterfactual_148", "counterfactual_141", "counterfactual_146", "counterfactual_149", "counterfactual_150"]}
+{"idx": "469", "rule_list": ["operation_2"], "question_list": ["operation_20", "operation_12", "operation_19", "operation_13", "operation_14", "operation_16", "operation_11", "operation_17", "operation_15"]}
+{"idx": "470", "rule_list": ["cipher_21"], "question_list": ["cipher_202", "cipher_207", "cipher_205", "cipher_204", "cipher_203", "cipher_210", "cipher_208", "cipher_201", "cipher_209", "cipher_206"]}
+{"idx": "471", "rule_list": ["puzzle_10"], "question_list": ["puzzle_95"]}
+{"idx": "472", "rule_list": ["puzzle_10"], "question_list": ["puzzle_99", "puzzle_92"]}
+{"idx": "473", "rule_list": ["logic_19"], "question_list": ["logic_183", "logic_181", "logic_187"]}
+{"idx": "474", "rule_list": ["puzzle_13"], "question_list": ["puzzle_125", "puzzle_128", "puzzle_130", "puzzle_124"]}
+{"idx": "475", "rule_list": ["operation_15"], "question_list": ["operation_148", "operation_150", "operation_146", "operation_145", "operation_141"]}
+{"idx": "476", "rule_list": ["puzzle_11"], "question_list": ["puzzle_103", "puzzle_107", "puzzle_104", "puzzle_108", "puzzle_102", "puzzle_109"]}
+{"idx": "477", "rule_list": ["operation_13"], "question_list": ["operation_127", "operation_129", "operation_126", "operation_121", "operation_125", "operation_128", "operation_124"]}
+{"idx": "478", "rule_list": ["operation_24"], "question_list": ["operation_233", "operation_238", "operation_234", "operation_231", "operation_235", "operation_232", "operation_237", "operation_239"]}
+{"idx": "479", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_19", "counterfactual_15", "counterfactual_12", "counterfactual_17", "counterfactual_18", "counterfactual_11", "counterfactual_14", "counterfactual_13", "counterfactual_16"]}
+{"idx": "480", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_162", "counterfactual_166", "counterfactual_164", "counterfactual_168", "counterfactual_167", "counterfactual_161", "counterfactual_163", "counterfactual_169", "counterfactual_170", "counterfactual_165"]}
+{"idx": "481", "rule_list": ["logic_4"], "question_list": ["logic_39"]}
+{"idx": "482", "rule_list": ["operation_20"], "question_list": ["operation_200", "operation_198"]}
+{"idx": "483", "rule_list": ["puzzle_23"], "question_list": ["puzzle_230", "puzzle_226", "puzzle_225"]}
+{"idx": "484", "rule_list": ["cipher_17"], "question_list": ["cipher_166", "cipher_168", "cipher_163", "cipher_169"]}
+{"idx": "485", "rule_list": ["puzzle_18"], "question_list": ["puzzle_172", "puzzle_171", "puzzle_174", "puzzle_176", "puzzle_175"]}
+{"idx": "486", "rule_list": ["cipher_8"], "question_list": ["cipher_80", "cipher_71", "cipher_73", "cipher_76", "cipher_75", "cipher_78"]}
+{"idx": "487", "rule_list": ["cipher_4"], "question_list": ["cipher_32", "cipher_37", "cipher_35", "cipher_34", "cipher_38", "cipher_39", "cipher_36"]}
+{"idx": "488", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_16", "counterfactual_19", "counterfactual_13", "counterfactual_11", "counterfactual_20", "counterfactual_18", "counterfactual_17", "counterfactual_14"]}
+{"idx": "489", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_49", "counterfactual_50", "counterfactual_43", "counterfactual_48", "counterfactual_47", "counterfactual_45", "counterfactual_41", "counterfactual_46", "counterfactual_44"]}
+{"idx": "490", "rule_list": ["cipher_20"], "question_list": ["cipher_192", "cipher_200", "cipher_196", "cipher_197", "cipher_193", "cipher_191", "cipher_194", "cipher_195", "cipher_198", "cipher_199"]}
+{"idx": "491", "rule_list": ["logic_2"], "question_list": ["logic_15"]}
+{"idx": "492", "rule_list": ["operation_15"], "question_list": ["operation_148", "operation_145"]}
+{"idx": "493", "rule_list": ["cipher_23"], "question_list": ["cipher_224", "cipher_222", "cipher_225"]}
+{"idx": "494", "rule_list": ["operation_9"], "question_list": ["operation_81", "operation_83", "operation_87", "operation_85"]}
+{"idx": "495", "rule_list": ["operation_1"], "question_list": ["operation_7", "operation_9", "operation_10", "operation_4", "operation_6"]}
+{"idx": "496", "rule_list": ["counterfactual_4"], "question_list": ["counterfactual_37", "counterfactual_34", "counterfactual_38", "counterfactual_36", "counterfactual_35", "counterfactual_40"]}
+{"idx": "497", "rule_list": ["operation_1"], "question_list": ["operation_2", "operation_5", "operation_7", "operation_4", "operation_1", "operation_3", "operation_6"]}
+{"idx": "498", "rule_list": ["operation_7"], "question_list": ["operation_67", "operation_61", "operation_62", "operation_69", "operation_65", "operation_63", "operation_64", "operation_66"]}
+{"idx": "499", "rule_list": ["puzzle_17"], "question_list": ["puzzle_169", "puzzle_164", "puzzle_162", "puzzle_170", "puzzle_166", "puzzle_163", "puzzle_167", "puzzle_165", "puzzle_168"]}
+{"idx": "500", "rule_list": ["operation_8"], "question_list": ["operation_79", "operation_71", "operation_72", "operation_80", "operation_76", "operation_77", "operation_78", "operation_75", "operation_74", "operation_73"]}
+{"idx": "501", "rule_list": ["logic_24"], "question_list": ["logic_232"]}
+{"idx": "502", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_51", "counterfactual_60"]}
+{"idx": "503", "rule_list": ["operation_9"], "question_list": ["operation_85", "operation_84", "operation_82"]}
+{"idx": "504", "rule_list": ["counterfactual_3"], "question_list": ["counterfactual_26", "counterfactual_24", "counterfactual_23", "counterfactual_22"]}
+{"idx": "505", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_178", "counterfactual_173", "counterfactual_174", "counterfactual_171", "counterfactual_177"]}
+{"idx": "506", "rule_list": ["puzzle_25"], "question_list": ["puzzle_246", "puzzle_242", "puzzle_249", "puzzle_248", "puzzle_250", "puzzle_247"]}
+{"idx": "507", "rule_list": ["cipher_14"], "question_list": ["cipher_133", "cipher_132", "cipher_138", "cipher_140", "cipher_139", "cipher_134", "cipher_137"]}
+{"idx": "508", "rule_list": ["logic_10"], "question_list": ["logic_96", "logic_98", "logic_92", "logic_97", "logic_95", "logic_93", "logic_99", "logic_91"]}
+{"idx": "509", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_177", "counterfactual_173", "counterfactual_180", "counterfactual_176", "counterfactual_174", "counterfactual_178", "counterfactual_172", "counterfactual_179", "counterfactual_175"]}
+{"idx": "510", "rule_list": ["counterfactual_8"], "question_list": ["counterfactual_76", "counterfactual_72", "counterfactual_80", "counterfactual_73", "counterfactual_74", "counterfactual_75", "counterfactual_79", "counterfactual_71", "counterfactual_77", "counterfactual_78"]}
+{"idx": "511", "rule_list": ["logic_22"], "question_list": ["logic_211"]}
+{"idx": "512", "rule_list": ["puzzle_9"], "question_list": ["puzzle_82", "puzzle_86"]}
+{"idx": "513", "rule_list": ["puzzle_11"], "question_list": ["puzzle_102", "puzzle_105", "puzzle_107"]}
+{"idx": "514", "rule_list": ["puzzle_13"], "question_list": ["puzzle_127", "puzzle_123", "puzzle_125", "puzzle_122"]}
+{"idx": "515", "rule_list": ["operation_18"], "question_list": ["operation_179", "operation_173", "operation_180", "operation_175", "operation_176"]}
+{"idx": "516", "rule_list": ["puzzle_2"], "question_list": ["puzzle_16", "puzzle_14", "puzzle_11", "puzzle_20", "puzzle_19", "puzzle_12"]}
+{"idx": "517", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_14", "counterfactual_12", "counterfactual_17", "counterfactual_20", "counterfactual_13", "counterfactual_16", "counterfactual_11"]}
+{"idx": "518", "rule_list": ["operation_14"], "question_list": ["operation_132", "operation_136", "operation_138", "operation_139", "operation_140", "operation_134", "operation_137", "operation_131"]}
+{"idx": "519", "rule_list": ["operation_8"], "question_list": ["operation_79", "operation_76", "operation_72", "operation_74", "operation_77", "operation_73", "operation_78", "operation_75", "operation_80"]}
+{"idx": "520", "rule_list": ["cipher_3"], "question_list": ["cipher_27", "cipher_22", "cipher_29", "cipher_25", "cipher_30", "cipher_24", "cipher_21", "cipher_23", "cipher_26", "cipher_28"]}
+{"idx": "521", "rule_list": ["operation_11"], "question_list": ["operation_103"]}
+{"idx": "522", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_53", "counterfactual_51"]}
+{"idx": "523", "rule_list": ["logic_13"], "question_list": ["logic_127", "logic_123", "logic_130"]}
+{"idx": "524", "rule_list": ["operation_8"], "question_list": ["operation_73", "operation_80", "operation_77", "operation_78"]}
+{"idx": "525", "rule_list": ["logic_23"], "question_list": ["logic_226", "logic_230", "logic_223", "logic_221", "logic_222"]}
+{"idx": "526", "rule_list": ["operation_1"], "question_list": ["operation_4", "operation_3", "operation_10", "operation_6", "operation_1", "operation_8"]}
+{"idx": "527", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_56", "counterfactual_60", "counterfactual_54", "counterfactual_58", "counterfactual_57", "counterfactual_51", "counterfactual_59"]}
+{"idx": "528", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_16", "counterfactual_18", "counterfactual_13", "counterfactual_11", "counterfactual_14", "counterfactual_19", "counterfactual_20", "counterfactual_12"]}
+{"idx": "529", "rule_list": ["operation_10"], "question_list": ["operation_97", "operation_98", "operation_95", "operation_91", "operation_93", "operation_100", "operation_99", "operation_96", "operation_92"]}
+{"idx": "530", "rule_list": ["logic_3"], "question_list": ["logic_25", "logic_26", "logic_30", "logic_27", "logic_23", "logic_21", "logic_24", "logic_22", "logic_29", "logic_28"]}
+{"idx": "531", "rule_list": ["puzzle_4"], "question_list": ["puzzle_34"]}
+{"idx": "532", "rule_list": ["operation_3"], "question_list": ["operation_28", "operation_21"]}
+{"idx": "533", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_166", "counterfactual_161", "counterfactual_163"]}
+{"idx": "534", "rule_list": ["operation_19"], "question_list": ["operation_183", "operation_181", "operation_187", "operation_184"]}
+{"idx": "535", "rule_list": ["counterfactual_10"], "question_list": ["counterfactual_94", "counterfactual_92", "counterfactual_97", "counterfactual_95", "counterfactual_96"]}
+{"idx": "536", "rule_list": ["logic_17"], "question_list": ["logic_168", "logic_162", "logic_161", "logic_164", "logic_170", "logic_166"]}
+{"idx": "537", "rule_list": ["cipher_9"], "question_list": ["cipher_85", "cipher_82", "cipher_87", "cipher_83", "cipher_89", "cipher_81", "cipher_86"]}
+{"idx": "538", "rule_list": ["puzzle_21"], "question_list": ["puzzle_210", "puzzle_205", "puzzle_206", "puzzle_202", "puzzle_208", "puzzle_201", "puzzle_207", "puzzle_209"]}
+{"idx": "539", "rule_list": ["puzzle_25"], "question_list": ["puzzle_242", "puzzle_241", "puzzle_243", "puzzle_244", "puzzle_246", "puzzle_247", "puzzle_248", "puzzle_249", "puzzle_245"]}
+{"idx": "540", "rule_list": ["puzzle_6"], "question_list": ["puzzle_51", "puzzle_59", "puzzle_54", "puzzle_55", "puzzle_58", "puzzle_56", "puzzle_60", "puzzle_52", "puzzle_57", "puzzle_53"]}
+{"idx": "541", "rule_list": ["puzzle_4"], "question_list": ["puzzle_37"]}
+{"idx": "542", "rule_list": ["logic_4"], "question_list": ["logic_38", "logic_33"]}
+{"idx": "543", "rule_list": ["cipher_7"], "question_list": ["cipher_70", "cipher_66", "cipher_63"]}
+{"idx": "544", "rule_list": ["logic_19"], "question_list": ["logic_184", "logic_185", "logic_189", "logic_190"]}
+{"idx": "545", "rule_list": ["puzzle_24"], "question_list": ["puzzle_237", "puzzle_235", "puzzle_238", "puzzle_239", "puzzle_234"]}
+{"idx": "546", "rule_list": ["puzzle_1"], "question_list": ["puzzle_2", "puzzle_9", "puzzle_10", "puzzle_7", "puzzle_6", "puzzle_5"]}
+{"idx": "547", "rule_list": ["logic_4"], "question_list": ["logic_38", "logic_37", "logic_40", "logic_36", "logic_34", "logic_35", "logic_39"]}
+{"idx": "548", "rule_list": ["logic_7"], "question_list": ["logic_65", "logic_67", "logic_69", "logic_63", "logic_66", "logic_68", "logic_62", "logic_61"]}
+{"idx": "549", "rule_list": ["cipher_12"], "question_list": ["cipher_112", "cipher_120", "cipher_111", "cipher_118", "cipher_114", "cipher_115", "cipher_116", "cipher_113", "cipher_117"]}
+{"idx": "550", "rule_list": ["operation_2"], "question_list": ["operation_16", "operation_11", "operation_14", "operation_20", "operation_15", "operation_17", "operation_12", "operation_13", "operation_19", "operation_18"]}
+{"idx": "551", "rule_list": ["operation_4"], "question_list": ["operation_39"]}
+{"idx": "552", "rule_list": ["cipher_18"], "question_list": ["cipher_173", "cipher_171"]}
+{"idx": "553", "rule_list": ["cipher_13"], "question_list": ["cipher_125", "cipher_124", "cipher_121"]}
+{"idx": "554", "rule_list": ["operation_11"], "question_list": ["operation_103", "operation_110", "operation_104", "operation_109"]}
+{"idx": "555", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_83", "counterfactual_89", "counterfactual_85", "counterfactual_90", "counterfactual_82"]}
+{"idx": "556", "rule_list": ["logic_1"], "question_list": ["logic_6", "logic_1", "logic_4", "logic_9", "logic_3", "logic_8"]}
+{"idx": "557", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_50", "counterfactual_46", "counterfactual_42", "counterfactual_41", "counterfactual_45", "counterfactual_49", "counterfactual_48"]}
+{"idx": "558", "rule_list": ["cipher_13"], "question_list": ["cipher_129", "cipher_121", "cipher_124", "cipher_125", "cipher_122", "cipher_128", "cipher_126", "cipher_127"]}
+{"idx": "559", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_213", "counterfactual_219", "counterfactual_217", "counterfactual_212", "counterfactual_220", "counterfactual_211", "counterfactual_214", "counterfactual_216", "counterfactual_218"]}
+{"idx": "560", "rule_list": ["operation_12"], "question_list": ["operation_115", "operation_116", "operation_111", "operation_113", "operation_118", "operation_114", "operation_119", "operation_120", "operation_117", "operation_112"]}
+{"idx": "561", "rule_list": ["logic_18"], "question_list": ["logic_177"]}
+{"idx": "562", "rule_list": ["operation_2"], "question_list": ["operation_15", "operation_19"]}
+{"idx": "563", "rule_list": ["cipher_13"], "question_list": ["cipher_121", "cipher_124", "cipher_130"]}
+{"idx": "564", "rule_list": ["cipher_20"], "question_list": ["cipher_198", "cipher_194", "cipher_192", "cipher_199"]}
+{"idx": "565", "rule_list": ["puzzle_7"], "question_list": ["puzzle_66", "puzzle_69", "puzzle_68", "puzzle_62", "puzzle_67"]}
+{"idx": "566", "rule_list": ["operation_10"], "question_list": ["operation_97", "operation_96", "operation_93", "operation_99", "operation_98", "operation_95"]}
+{"idx": "567", "rule_list": ["logic_19"], "question_list": ["logic_190", "logic_188", "logic_183", "logic_186", "logic_181", "logic_187", "logic_185"]}
+{"idx": "568", "rule_list": ["puzzle_15"], "question_list": ["puzzle_150", "puzzle_148", "puzzle_142", "puzzle_145", "puzzle_141", "puzzle_149", "puzzle_144", "puzzle_146"]}
+{"idx": "569", "rule_list": ["logic_2"], "question_list": ["logic_18", "logic_17", "logic_12", "logic_16", "logic_11", "logic_13", "logic_15", "logic_14", "logic_20"]}
+{"idx": "570", "rule_list": ["cipher_16"], "question_list": ["cipher_155", "cipher_157", "cipher_151", "cipher_158", "cipher_153", "cipher_160", "cipher_159", "cipher_156", "cipher_152", "cipher_154"]}
+{"idx": "571", "rule_list": ["operation_20"], "question_list": ["operation_194"]}
+{"idx": "572", "rule_list": ["cipher_5"], "question_list": ["cipher_42", "cipher_44"]}
+{"idx": "573", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_237", "counterfactual_235", "counterfactual_236"]}
+{"idx": "574", "rule_list": ["logic_3"], "question_list": ["logic_26", "logic_28", "logic_25", "logic_23"]}
+{"idx": "575", "rule_list": ["cipher_23"], "question_list": ["cipher_225", "cipher_228", "cipher_229", "cipher_221", "cipher_223"]}
+{"idx": "576", "rule_list": ["logic_18"], "question_list": ["logic_176", "logic_180", "logic_177", "logic_171", "logic_172", "logic_173"]}
+{"idx": "577", "rule_list": ["puzzle_24"], "question_list": ["puzzle_240", "puzzle_239", "puzzle_235", "puzzle_231", "puzzle_232", "puzzle_236", "puzzle_233"]}
+{"idx": "578", "rule_list": ["logic_21"], "question_list": ["logic_208", "logic_204", "logic_210", "logic_205", "logic_203", "logic_202", "logic_207", "logic_206"]}
+{"idx": "579", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_49", "counterfactual_42", "counterfactual_48", "counterfactual_45", "counterfactual_41", "counterfactual_43", "counterfactual_46", "counterfactual_47", "counterfactual_50"]}
+{"idx": "580", "rule_list": ["puzzle_16"], "question_list": ["puzzle_151", "puzzle_154", "puzzle_153", "puzzle_158", "puzzle_156", "puzzle_152", "puzzle_157", "puzzle_159", "puzzle_160", "puzzle_155"]}
+{"idx": "581", "rule_list": ["cipher_14"], "question_list": ["cipher_136"]}
+{"idx": "582", "rule_list": ["cipher_19"], "question_list": ["cipher_189", "cipher_184"]}
+{"idx": "583", "rule_list": ["counterfactual_6"], "question_list": ["counterfactual_55", "counterfactual_60", "counterfactual_58"]}
+{"idx": "584", "rule_list": ["operation_13"], "question_list": ["operation_125", "operation_128", "operation_127", "operation_124"]}
+{"idx": "585", "rule_list": ["operation_7"], "question_list": ["operation_68", "operation_67", "operation_70", "operation_66", "operation_65"]}
+{"idx": "586", "rule_list": ["cipher_10"], "question_list": ["cipher_100", "cipher_97", "cipher_93", "cipher_91", "cipher_95", "cipher_92"]}
+{"idx": "587", "rule_list": ["logic_22"], "question_list": ["logic_219", "logic_217", "logic_220", "logic_218", "logic_213", "logic_212", "logic_211"]}
+{"idx": "588", "rule_list": ["logic_4"], "question_list": ["logic_36", "logic_31", "logic_37", "logic_34", "logic_39", "logic_40", "logic_38", "logic_33"]}
+{"idx": "589", "rule_list": ["operation_24"], "question_list": ["operation_238", "operation_240", "operation_232", "operation_236", "operation_237", "operation_234", "operation_235", "operation_233", "operation_239"]}
+{"idx": "590", "rule_list": ["puzzle_4"], "question_list": ["puzzle_33", "puzzle_39", "puzzle_31", "puzzle_32", "puzzle_38", "puzzle_40", "puzzle_35", "puzzle_37", "puzzle_36", "puzzle_34"]}
+{"idx": "591", "rule_list": ["logic_9"], "question_list": ["logic_82"]}
+{"idx": "592", "rule_list": ["cipher_25"], "question_list": ["cipher_244", "cipher_250"]}
+{"idx": "593", "rule_list": ["logic_12"], "question_list": ["logic_117", "logic_118", "logic_119"]}
+{"idx": "594", "rule_list": ["counterfactual_3"], "question_list": ["counterfactual_24", "counterfactual_27", "counterfactual_21", "counterfactual_30"]}
+{"idx": "595", "rule_list": ["logic_12"], "question_list": ["logic_114", "logic_119", "logic_120", "logic_112", "logic_117"]}
+{"idx": "596", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_147", "counterfactual_143", "counterfactual_142", "counterfactual_146", "counterfactual_141", "counterfactual_149"]}
+{"idx": "597", "rule_list": ["operation_19"], "question_list": ["operation_181", "operation_187", "operation_183", "operation_182", "operation_186", "operation_189", "operation_185"]}
+{"idx": "598", "rule_list": ["counterfactual_3"], "question_list": ["counterfactual_28", "counterfactual_25", "counterfactual_22", "counterfactual_26", "counterfactual_30", "counterfactual_24", "counterfactual_27", "counterfactual_23"]}
+{"idx": "599", "rule_list": ["operation_14"], "question_list": ["operation_135", "operation_131", "operation_137", "operation_134", "operation_136", "operation_139", "operation_132", "operation_138", "operation_133"]}
+{"idx": "600", "rule_list": ["cipher_17"], "question_list": ["cipher_164", "cipher_166", "cipher_161", "cipher_165", "cipher_163", "cipher_170", "cipher_167", "cipher_169", "cipher_162", "cipher_168"]}
+{"idx": "601", "rule_list": ["puzzle_4"], "question_list": ["puzzle_38"]}
+{"idx": "602", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_178", "counterfactual_180"]}
+{"idx": "603", "rule_list": ["cipher_4"], "question_list": ["cipher_31", "cipher_39", "cipher_36"]}
+{"idx": "604", "rule_list": ["counterfactual_4"], "question_list": ["counterfactual_38", "counterfactual_36", "counterfactual_31", "counterfactual_34"]}
+{"idx": "605", "rule_list": ["logic_15"], "question_list": ["logic_147", "logic_148", "logic_146", "logic_142", "logic_143"]}
+{"idx": "606", "rule_list": ["cipher_14"], "question_list": ["cipher_131", "cipher_132", "cipher_139", "cipher_140", "cipher_136", "cipher_137"]}
+{"idx": "607", "rule_list": ["puzzle_6"], "question_list": ["puzzle_54", "puzzle_53", "puzzle_60", "puzzle_52", "puzzle_51", "puzzle_56", "puzzle_57"]}
+{"idx": "608", "rule_list": ["puzzle_23"], "question_list": ["puzzle_230", "puzzle_221", "puzzle_227", "puzzle_225", "puzzle_228", "puzzle_229", "puzzle_223", "puzzle_222"]}
+{"idx": "609", "rule_list": ["cipher_11"], "question_list": ["cipher_101", "cipher_108", "cipher_103", "cipher_105", "cipher_106", "cipher_107", "cipher_102", "cipher_109", "cipher_104"]}
+{"idx": "610", "rule_list": ["cipher_25"], "question_list": ["cipher_245", "cipher_243", "cipher_242", "cipher_250", "cipher_244", "cipher_248", "cipher_246", "cipher_241", "cipher_247", "cipher_249"]}
+{"idx": "611", "rule_list": ["logic_13"], "question_list": ["logic_127"]}
+{"idx": "612", "rule_list": ["logic_5"], "question_list": ["logic_44", "logic_50"]}
+{"idx": "613", "rule_list": ["operation_10"], "question_list": ["operation_98", "operation_93", "operation_94"]}
+{"idx": "614", "rule_list": ["operation_15"], "question_list": ["operation_150", "operation_144", "operation_142", "operation_145"]}
+{"idx": "615", "rule_list": ["operation_1"], "question_list": ["operation_9", "operation_6", "operation_10", "operation_8", "operation_3"]}
+{"idx": "616", "rule_list": ["logic_18"], "question_list": ["logic_176", "logic_180", "logic_172", "logic_178", "logic_174", "logic_179"]}
+{"idx": "617", "rule_list": ["operation_7"], "question_list": ["operation_68", "operation_64", "operation_62", "operation_66", "operation_65", "operation_61", "operation_67"]}
+{"idx": "618", "rule_list": ["cipher_19"], "question_list": ["cipher_181", "cipher_186", "cipher_190", "cipher_188", "cipher_187", "cipher_182", "cipher_183", "cipher_185"]}
+{"idx": "619", "rule_list": ["logic_3"], "question_list": ["logic_29", "logic_26", "logic_22", "logic_23", "logic_28", "logic_30", "logic_24", "logic_27", "logic_21"]}
+{"idx": "620", "rule_list": ["operation_23"], "question_list": ["operation_228", "operation_221", "operation_225", "operation_229", "operation_227", "operation_222", "operation_224", "operation_230", "operation_223", "operation_226"]}
+{"idx": "621", "rule_list": ["operation_19"], "question_list": ["operation_181"]}
+{"idx": "622", "rule_list": ["logic_9"], "question_list": ["logic_86", "logic_81"]}
+{"idx": "623", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_84", "counterfactual_90", "counterfactual_83"]}
+{"idx": "624", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_16", "counterfactual_11", "counterfactual_18", "counterfactual_14"]}
+{"idx": "625", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_157", "counterfactual_159", "counterfactual_154", "counterfactual_158", "counterfactual_160"]}
+{"idx": "626", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_49", "counterfactual_47", "counterfactual_45", "counterfactual_43", "counterfactual_44", "counterfactual_42"]}
+{"idx": "627", "rule_list": ["logic_18"], "question_list": ["logic_174", "logic_173", "logic_177", "logic_171", "logic_176", "logic_178", "logic_172"]}
+{"idx": "628", "rule_list": ["cipher_25"], "question_list": ["cipher_250", "cipher_244", "cipher_243", "cipher_245", "cipher_242", "cipher_247", "cipher_249", "cipher_241"]}
+{"idx": "629", "rule_list": ["puzzle_21"], "question_list": ["puzzle_209", "puzzle_203", "puzzle_206", "puzzle_207", "puzzle_205", "puzzle_202", "puzzle_210", "puzzle_204", "puzzle_208"]}
+{"idx": "630", "rule_list": ["counterfactual_25"], "question_list": ["counterfactual_245", "counterfactual_246", "counterfactual_242", "counterfactual_248", "counterfactual_249", "counterfactual_247", "counterfactual_244", "counterfactual_243", "counterfactual_250", "counterfactual_241"]}
+{"idx": "631", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_231"]}
+{"idx": "632", "rule_list": ["cipher_22"], "question_list": ["cipher_211", "cipher_215"]}
+{"idx": "633", "rule_list": ["counterfactual_12"], "question_list": ["counterfactual_118", "counterfactual_115", "counterfactual_117"]}
+{"idx": "634", "rule_list": ["operation_14"], "question_list": ["operation_132", "operation_133", "operation_134", "operation_135"]}
+{"idx": "635", "rule_list": ["operation_6"], "question_list": ["operation_53", "operation_55", "operation_60", "operation_54", "operation_52"]}
+{"idx": "636", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_169", "counterfactual_161", "counterfactual_162", "counterfactual_165", "counterfactual_168", "counterfactual_167"]}
+{"idx": "637", "rule_list": ["cipher_17"], "question_list": ["cipher_161", "cipher_167", "cipher_162", "cipher_163", "cipher_165", "cipher_169", "cipher_168"]}
+{"idx": "638", "rule_list": ["logic_7"], "question_list": ["logic_64", "logic_69", "logic_67", "logic_70", "logic_63", "logic_66", "logic_68", "logic_62"]}
+{"idx": "639", "rule_list": ["operation_3"], "question_list": ["operation_23", "operation_25", "operation_28", "operation_24", "operation_29", "operation_30", "operation_27", "operation_21", "operation_22"]}
+{"idx": "640", "rule_list": ["cipher_7"], "question_list": ["cipher_62", "cipher_65", "cipher_63", "cipher_61", "cipher_66", "cipher_69", "cipher_68", "cipher_70", "cipher_67", "cipher_64"]}
+{"idx": "641", "rule_list": ["puzzle_5"], "question_list": ["puzzle_45"]}
+{"idx": "642", "rule_list": ["operation_3"], "question_list": ["operation_23", "operation_24"]}
+{"idx": "643", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_87", "counterfactual_84", "counterfactual_81"]}
+{"idx": "644", "rule_list": ["logic_6"], "question_list": ["logic_53", "logic_56", "logic_55", "logic_59"]}
+{"idx": "645", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_134", "counterfactual_132", "counterfactual_137", "counterfactual_131", "counterfactual_133"]}
+{"idx": "646", "rule_list": ["operation_19"], "question_list": ["operation_183", "operation_186", "operation_184", "operation_187", "operation_185", "operation_190"]}
+{"idx": "647", "rule_list": ["cipher_22"], "question_list": ["cipher_215", "cipher_211", "cipher_218", "cipher_216", "cipher_214", "cipher_213", "cipher_212"]}
+{"idx": "648", "rule_list": ["cipher_13"], "question_list": ["cipher_126", "cipher_127", "cipher_128", "cipher_124", "cipher_122", "cipher_125", "cipher_123", "cipher_121"]}
+{"idx": "649", "rule_list": ["puzzle_8"], "question_list": ["puzzle_80", "puzzle_73", "puzzle_74", "puzzle_72", "puzzle_77", "puzzle_75", "puzzle_78", "puzzle_76", "puzzle_71"]}
+{"idx": "650", "rule_list": ["counterfactual_1"], "question_list": ["counterfactual_4", "counterfactual_3", "counterfactual_6", "counterfactual_1", "counterfactual_10", "counterfactual_9", "counterfactual_5", "counterfactual_8", "counterfactual_7", "counterfactual_2"]}
+{"idx": "651", "rule_list": ["counterfactual_7"], "question_list": ["counterfactual_64"]}
+{"idx": "652", "rule_list": ["logic_14"], "question_list": ["logic_135", "logic_131"]}
+{"idx": "653", "rule_list": ["cipher_13"], "question_list": ["cipher_122", "cipher_130", "cipher_126"]}
+{"idx": "654", "rule_list": ["logic_11"], "question_list": ["logic_106", "logic_110", "logic_101", "logic_103"]}
+{"idx": "655", "rule_list": ["operation_13"], "question_list": ["operation_122", "operation_129", "operation_128", "operation_127", "operation_126"]}
+{"idx": "656", "rule_list": ["cipher_9"], "question_list": ["cipher_86", "cipher_81", "cipher_89", "cipher_90", "cipher_83", "cipher_85"]}
+{"idx": "657", "rule_list": ["operation_7"], "question_list": ["operation_67", "operation_66", "operation_69", "operation_63", "operation_62", "operation_64", "operation_61"]}
+{"idx": "658", "rule_list": ["logic_3"], "question_list": ["logic_30", "logic_23", "logic_28", "logic_29", "logic_22", "logic_26", "logic_21", "logic_25"]}
+{"idx": "659", "rule_list": ["cipher_10"], "question_list": ["cipher_99", "cipher_100", "cipher_98", "cipher_94", "cipher_93", "cipher_95", "cipher_96", "cipher_97", "cipher_91"]}
+{"idx": "660", "rule_list": ["operation_25"], "question_list": ["operation_242", "operation_245", "operation_246", "operation_243", "operation_244", "operation_247", "operation_250", "operation_241", "operation_248", "operation_249"]}
+{"idx": "661", "rule_list": ["operation_9"], "question_list": ["operation_83"]}
+{"idx": "662", "rule_list": ["logic_18"], "question_list": ["logic_173", "logic_177"]}
+{"idx": "663", "rule_list": ["logic_3"], "question_list": ["logic_27", "logic_29", "logic_28"]}
+{"idx": "664", "rule_list": ["logic_5"], "question_list": ["logic_49", "logic_47", "logic_43", "logic_44"]}
+{"idx": "665", "rule_list": ["logic_12"], "question_list": ["logic_116", "logic_120", "logic_113", "logic_115", "logic_118"]}
+{"idx": "666", "rule_list": ["logic_15"], "question_list": ["logic_144", "logic_142", "logic_146", "logic_148", "logic_141", "logic_145"]}
+{"idx": "667", "rule_list": ["cipher_16"], "question_list": ["cipher_151", "cipher_155", "cipher_152", "cipher_157", "cipher_154", "cipher_159", "cipher_153"]}
+{"idx": "668", "rule_list": ["operation_11"], "question_list": ["operation_105", "operation_108", "operation_103", "operation_109", "operation_110", "operation_106", "operation_102", "operation_101"]}
+{"idx": "669", "rule_list": ["puzzle_21"], "question_list": ["puzzle_209", "puzzle_208", "puzzle_205", "puzzle_202", "puzzle_206", "puzzle_207", "puzzle_201", "puzzle_204", "puzzle_203"]}
+{"idx": "670", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_211", "counterfactual_214", "counterfactual_213", "counterfactual_218", "counterfactual_215", "counterfactual_217", "counterfactual_219", "counterfactual_220", "counterfactual_212", "counterfactual_216"]}
+{"idx": "671", "rule_list": ["logic_13"], "question_list": ["logic_128"]}
+{"idx": "672", "rule_list": ["logic_23"], "question_list": ["logic_229", "logic_227"]}
+{"idx": "673", "rule_list": ["operation_13"], "question_list": ["operation_129", "operation_128", "operation_123"]}
+{"idx": "674", "rule_list": ["counterfactual_12"], "question_list": ["counterfactual_112", "counterfactual_113", "counterfactual_114", "counterfactual_117"]}
+{"idx": "675", "rule_list": ["logic_10"], "question_list": ["logic_94", "logic_97", "logic_95", "logic_98", "logic_96"]}
+{"idx": "676", "rule_list": ["logic_9"], "question_list": ["logic_82", "logic_81", "logic_88", "logic_87", "logic_85", "logic_83"]}
+{"idx": "677", "rule_list": ["logic_19"], "question_list": ["logic_182", "logic_183", "logic_189", "logic_185", "logic_188", "logic_187", "logic_186"]}
+{"idx": "678", "rule_list": ["operation_6"], "question_list": ["operation_59", "operation_51", "operation_58", "operation_54", "operation_57", "operation_60", "operation_56", "operation_52"]}
+{"idx": "679", "rule_list": ["cipher_24"], "question_list": ["cipher_236", "cipher_232", "cipher_231", "cipher_239", "cipher_238", "cipher_240", "cipher_237", "cipher_233", "cipher_235"]}
+{"idx": "680", "rule_list": ["cipher_23"], "question_list": ["cipher_229", "cipher_221", "cipher_225", "cipher_222", "cipher_224", "cipher_227", "cipher_228", "cipher_230", "cipher_226", "cipher_223"]}
+{"idx": "681", "rule_list": ["logic_14"], "question_list": ["logic_136"]}
+{"idx": "682", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_224", "counterfactual_226"]}
+{"idx": "683", "rule_list": ["puzzle_15"], "question_list": ["puzzle_143", "puzzle_144", "puzzle_148"]}
+{"idx": "684", "rule_list": ["cipher_18"], "question_list": ["cipher_176", "cipher_173", "cipher_172", "cipher_180"]}
+{"idx": "685", "rule_list": ["logic_2"], "question_list": ["logic_13", "logic_20", "logic_19", "logic_11", "logic_14"]}
+{"idx": "686", "rule_list": ["puzzle_15"], "question_list": ["puzzle_149", "puzzle_150", "puzzle_143", "puzzle_146", "puzzle_147", "puzzle_142"]}
+{"idx": "687", "rule_list": ["puzzle_1"], "question_list": ["puzzle_9", "puzzle_4", "puzzle_5", "puzzle_1", "puzzle_3", "puzzle_6", "puzzle_8"]}
+{"idx": "688", "rule_list": ["puzzle_15"], "question_list": ["puzzle_142", "puzzle_144", "puzzle_141", "puzzle_143", "puzzle_148", "puzzle_149", "puzzle_150", "puzzle_145"]}
+{"idx": "689", "rule_list": ["puzzle_22"], "question_list": ["puzzle_215", "puzzle_216", "puzzle_217", "puzzle_218", "puzzle_212", "puzzle_211", "puzzle_214", "puzzle_220", "puzzle_219"]}
+{"idx": "690", "rule_list": ["cipher_19"], "question_list": ["cipher_188", "cipher_181", "cipher_185", "cipher_187", "cipher_184", "cipher_183", "cipher_189", "cipher_182", "cipher_190", "cipher_186"]}
+{"idx": "691", "rule_list": ["puzzle_25"], "question_list": ["puzzle_247"]}
+{"idx": "692", "rule_list": ["cipher_1"], "question_list": ["cipher_9", "cipher_5"]}
+{"idx": "693", "rule_list": ["counterfactual_25"], "question_list": ["counterfactual_249", "counterfactual_246", "counterfactual_241"]}
+{"idx": "694", "rule_list": ["logic_5"], "question_list": ["logic_50", "logic_44", "logic_49", "logic_45"]}
+{"idx": "695", "rule_list": ["logic_15"], "question_list": ["logic_143", "logic_149", "logic_145", "logic_146", "logic_147"]}
+{"idx": "696", "rule_list": ["operation_17"], "question_list": ["operation_167", "operation_163", "operation_162", "operation_168", "operation_170", "operation_169"]}
+{"idx": "697", "rule_list": ["logic_3"], "question_list": ["logic_22", "logic_21", "logic_23", "logic_30", "logic_29", "logic_26", "logic_28"]}
+{"idx": "698", "rule_list": ["cipher_6"], "question_list": ["cipher_60", "cipher_55", "cipher_57", "cipher_58", "cipher_53", "cipher_56", "cipher_51", "cipher_52"]}
+{"idx": "699", "rule_list": ["cipher_16"], "question_list": ["cipher_158", "cipher_153", "cipher_156", "cipher_154", "cipher_155", "cipher_151", "cipher_157", "cipher_152", "cipher_160"]}
+{"idx": "700", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_226", "counterfactual_223", "counterfactual_228", "counterfactual_230", "counterfactual_225", "counterfactual_224", "counterfactual_221", "counterfactual_229", "counterfactual_227", "counterfactual_222"]}
+{"idx": "701", "rule_list": ["puzzle_7"], "question_list": ["puzzle_63"]}
+{"idx": "702", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_110", "counterfactual_103"]}
+{"idx": "703", "rule_list": ["puzzle_18"], "question_list": ["puzzle_177", "puzzle_174", "puzzle_178"]}
+{"idx": "704", "rule_list": ["logic_4"], "question_list": ["logic_38", "logic_32", "logic_39", "logic_35"]}
+{"idx": "705", "rule_list": ["operation_19"], "question_list": ["operation_185", "operation_181", "operation_187", "operation_184", "operation_188"]}
+{"idx": "706", "rule_list": ["puzzle_9"], "question_list": ["puzzle_89", "puzzle_84", "puzzle_86", "puzzle_85", "puzzle_83", "puzzle_88"]}
+{"idx": "707", "rule_list": ["logic_13"], "question_list": ["logic_121", "logic_128", "logic_125", "logic_126", "logic_129", "logic_124", "logic_123"]}
+{"idx": "708", "rule_list": ["operation_19"], "question_list": ["operation_190", "operation_185", "operation_183", "operation_184", "operation_182", "operation_187", "operation_181", "operation_188"]}
+{"idx": "709", "rule_list": ["counterfactual_13"], "question_list": ["counterfactual_125", "counterfactual_127", "counterfactual_123", "counterfactual_128", "counterfactual_130", "counterfactual_122", "counterfactual_126", "counterfactual_124", "counterfactual_129"]}
+{"idx": "710", "rule_list": ["operation_4"], "question_list": ["operation_38", "operation_31", "operation_32", "operation_35", "operation_34", "operation_36", "operation_33", "operation_39", "operation_37", "operation_40"]}
+{"idx": "711", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_224"]}
+{"idx": "712", "rule_list": ["cipher_19"], "question_list": ["cipher_182", "cipher_185"]}
+{"idx": "713", "rule_list": ["operation_17"], "question_list": ["operation_165", "operation_164", "operation_161"]}
+{"idx": "714", "rule_list": ["puzzle_6"], "question_list": ["puzzle_54", "puzzle_59", "puzzle_53", "puzzle_58"]}
+{"idx": "715", "rule_list": ["logic_16"], "question_list": ["logic_153", "logic_159", "logic_158", "logic_156", "logic_151"]}
+{"idx": "716", "rule_list": ["logic_16"], "question_list": ["logic_153", "logic_158", "logic_154", "logic_155", "logic_152", "logic_157"]}
+{"idx": "717", "rule_list": ["cipher_10"], "question_list": ["cipher_95", "cipher_92", "cipher_97", "cipher_94", "cipher_96", "cipher_93", "cipher_99"]}
+{"idx": "718", "rule_list": ["counterfactual_7"], "question_list": ["counterfactual_65", "counterfactual_62", "counterfactual_63", "counterfactual_68", "counterfactual_69", "counterfactual_61", "counterfactual_70", "counterfactual_64"]}
+{"idx": "719", "rule_list": ["operation_5"], "question_list": ["operation_46", "operation_48", "operation_43", "operation_42", "operation_47", "operation_45", "operation_41", "operation_49", "operation_44"]}
+{"idx": "720", "rule_list": ["operation_18"], "question_list": ["operation_179", "operation_173", "operation_175", "operation_172", "operation_174", "operation_171", "operation_178", "operation_176", "operation_177", "operation_180"]}
+{"idx": "721", "rule_list": ["puzzle_10"], "question_list": ["puzzle_94"]}
+{"idx": "722", "rule_list": ["operation_6"], "question_list": ["operation_52", "operation_58"]}
+{"idx": "723", "rule_list": ["puzzle_9"], "question_list": ["puzzle_89", "puzzle_87", "puzzle_88"]}
+{"idx": "724", "rule_list": ["logic_10"], "question_list": ["logic_91", "logic_95", "logic_99", "logic_97"]}
+{"idx": "725", "rule_list": ["cipher_8"], "question_list": ["cipher_77", "cipher_79", "cipher_78", "cipher_71", "cipher_74"]}
+{"idx": "726", "rule_list": ["puzzle_3"], "question_list": ["puzzle_28", "puzzle_30", "puzzle_26", "puzzle_27", "puzzle_29", "puzzle_23"]}
+{"idx": "727", "rule_list": ["puzzle_18"], "question_list": ["puzzle_172", "puzzle_178", "puzzle_176", "puzzle_175", "puzzle_173", "puzzle_174", "puzzle_179"]}
+{"idx": "728", "rule_list": ["counterfactual_8"], "question_list": ["counterfactual_77", "counterfactual_72", "counterfactual_71", "counterfactual_78", "counterfactual_80", "counterfactual_74", "counterfactual_73", "counterfactual_79"]}
+{"idx": "729", "rule_list": ["logic_25"], "question_list": ["logic_244", "logic_246", "logic_248", "logic_241", "logic_249", "logic_250", "logic_247", "logic_243", "logic_242"]}
+{"idx": "730", "rule_list": ["cipher_5"], "question_list": ["cipher_41", "cipher_42", "cipher_50", "cipher_48", "cipher_45", "cipher_44", "cipher_49", "cipher_46", "cipher_43", "cipher_47"]}
+{"idx": "731", "rule_list": ["cipher_18"], "question_list": ["cipher_177"]}
+{"idx": "732", "rule_list": ["cipher_23"], "question_list": ["cipher_222", "cipher_223"]}
+{"idx": "733", "rule_list": ["logic_10"], "question_list": ["logic_100", "logic_93", "logic_97"]}
+{"idx": "734", "rule_list": ["logic_11"], "question_list": ["logic_108", "logic_101", "logic_105", "logic_106"]}
+{"idx": "735", "rule_list": ["logic_9"], "question_list": ["logic_87", "logic_84", "logic_90", "logic_85", "logic_82"]}
+{"idx": "736", "rule_list": ["operation_8"], "question_list": ["operation_79", "operation_74", "operation_76", "operation_73", "operation_72", "operation_78"]}
+{"idx": "737", "rule_list": ["operation_4"], "question_list": ["operation_32", "operation_36", "operation_39", "operation_38", "operation_37", "operation_40", "operation_31"]}
+{"idx": "738", "rule_list": ["puzzle_4"], "question_list": ["puzzle_36", "puzzle_33", "puzzle_34", "puzzle_31", "puzzle_40", "puzzle_35", "puzzle_32", "puzzle_39"]}
+{"idx": "739", "rule_list": ["operation_5"], "question_list": ["operation_43", "operation_50", "operation_41", "operation_47", "operation_49", "operation_44", "operation_42", "operation_45", "operation_46"]}
+{"idx": "740", "rule_list": ["logic_11"], "question_list": ["logic_109", "logic_107", "logic_101", "logic_104", "logic_105", "logic_110", "logic_103", "logic_102", "logic_106", "logic_108"]}
+{"idx": "741", "rule_list": ["operation_18"], "question_list": ["operation_173"]}
+{"idx": "742", "rule_list": ["cipher_12"], "question_list": ["cipher_114", "cipher_119"]}
+{"idx": "743", "rule_list": ["cipher_16"], "question_list": ["cipher_155", "cipher_154", "cipher_152"]}
+{"idx": "744", "rule_list": ["cipher_14"], "question_list": ["cipher_139", "cipher_133", "cipher_132", "cipher_138"]}
+{"idx": "745", "rule_list": ["puzzle_11"], "question_list": ["puzzle_105", "puzzle_104", "puzzle_110", "puzzle_103", "puzzle_106"]}
+{"idx": "746", "rule_list": ["cipher_23"], "question_list": ["cipher_225", "cipher_222", "cipher_227", "cipher_223", "cipher_221", "cipher_226"]}
+{"idx": "747", "rule_list": ["logic_6"], "question_list": ["logic_51", "logic_52", "logic_60", "logic_54", "logic_57", "logic_58", "logic_55"]}
+{"idx": "748", "rule_list": ["logic_5"], "question_list": ["logic_43", "logic_41", "logic_46", "logic_50", "logic_44", "logic_49", "logic_42", "logic_47"]}
+{"idx": "749", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_46", "counterfactual_44", "counterfactual_42", "counterfactual_50", "counterfactual_43", "counterfactual_41", "counterfactual_49", "counterfactual_47", "counterfactual_45"]}
+{"idx": "750", "rule_list": ["cipher_6"], "question_list": ["cipher_54", "cipher_53", "cipher_58", "cipher_57", "cipher_51", "cipher_52", "cipher_59", "cipher_55", "cipher_56", "cipher_60"]}
+{"idx": "751", "rule_list": ["logic_22"], "question_list": ["logic_213"]}
+{"idx": "752", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_14", "counterfactual_12"]}
+{"idx": "753", "rule_list": ["cipher_6"], "question_list": ["cipher_59", "cipher_52", "cipher_55"]}
+{"idx": "754", "rule_list": ["logic_12"], "question_list": ["logic_113", "logic_115", "logic_120", "logic_117"]}
+{"idx": "755", "rule_list": ["puzzle_15"], "question_list": ["puzzle_145", "puzzle_148", "puzzle_144", "puzzle_143", "puzzle_146"]}
+{"idx": "756", "rule_list": ["logic_14"], "question_list": ["logic_131", "logic_133", "logic_136", "logic_134", "logic_132", "logic_140"]}
+{"idx": "757", "rule_list": ["puzzle_2"], "question_list": ["puzzle_11", "puzzle_19", "puzzle_16", "puzzle_12", "puzzle_18", "puzzle_17", "puzzle_13"]}
+{"idx": "758", "rule_list": ["logic_8"], "question_list": ["logic_79", "logic_76", "logic_75", "logic_73", "logic_71", "logic_80", "logic_78", "logic_77"]}
+{"idx": "759", "rule_list": ["logic_9"], "question_list": ["logic_87", "logic_82", "logic_86", "logic_89", "logic_85", "logic_83", "logic_88", "logic_81", "logic_84"]}
+{"idx": "760", "rule_list": ["puzzle_13"], "question_list": ["puzzle_124", "puzzle_130", "puzzle_125", "puzzle_126", "puzzle_127", "puzzle_129", "puzzle_122", "puzzle_123", "puzzle_121", "puzzle_128"]}
+{"idx": "761", "rule_list": ["logic_14"], "question_list": ["logic_132"]}
+{"idx": "762", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_110", "counterfactual_101"]}
+{"idx": "763", "rule_list": ["logic_13"], "question_list": ["logic_121", "logic_125", "logic_128"]}
+{"idx": "764", "rule_list": ["logic_23"], "question_list": ["logic_224", "logic_225", "logic_226", "logic_229"]}
+{"idx": "765", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_218", "counterfactual_216", "counterfactual_213", "counterfactual_215", "counterfactual_212"]}
+{"idx": "766", "rule_list": ["cipher_19"], "question_list": ["cipher_188", "cipher_190", "cipher_181", "cipher_184", "cipher_182", "cipher_186"]}
+{"idx": "767", "rule_list": ["logic_3"], "question_list": ["logic_26", "logic_25", "logic_29", "logic_23", "logic_28", "logic_30", "logic_21"]}
+{"idx": "768", "rule_list": ["operation_3"], "question_list": ["operation_23", "operation_29", "operation_26", "operation_21", "operation_30", "operation_24", "operation_28", "operation_25"]}
+{"idx": "769", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_140", "counterfactual_137", "counterfactual_132", "counterfactual_133", "counterfactual_134", "counterfactual_136", "counterfactual_135", "counterfactual_138", "counterfactual_131"]}
+{"idx": "770", "rule_list": ["puzzle_9"], "question_list": ["puzzle_83", "puzzle_87", "puzzle_81", "puzzle_86", "puzzle_82", "puzzle_88", "puzzle_89", "puzzle_90", "puzzle_85", "puzzle_84"]}
+{"idx": "771", "rule_list": ["logic_15"], "question_list": ["logic_145"]}
+{"idx": "772", "rule_list": ["operation_14"], "question_list": ["operation_139", "operation_133"]}
+{"idx": "773", "rule_list": ["puzzle_19"], "question_list": ["puzzle_183", "puzzle_184", "puzzle_182"]}
+{"idx": "774", "rule_list": ["counterfactual_19"], "question_list": ["counterfactual_183", "counterfactual_188", "counterfactual_190", "counterfactual_186"]}
+{"idx": "775", "rule_list": ["cipher_12"], "question_list": ["cipher_120", "cipher_116", "cipher_118", "cipher_111", "cipher_114"]}
+{"idx": "776", "rule_list": ["counterfactual_13"], "question_list": ["counterfactual_121", "counterfactual_127", "counterfactual_129", "counterfactual_125", "counterfactual_128", "counterfactual_130"]}
+{"idx": "777", "rule_list": ["cipher_24"], "question_list": ["cipher_231", "cipher_233", "cipher_239", "cipher_234", "cipher_238", "cipher_240", "cipher_235"]}
+{"idx": "778", "rule_list": ["operation_13"], "question_list": ["operation_121", "operation_130", "operation_123", "operation_124", "operation_129", "operation_128", "operation_127", "operation_122"]}
+{"idx": "779", "rule_list": ["operation_3"], "question_list": ["operation_23", "operation_21", "operation_24", "operation_26", "operation_25", "operation_27", "operation_30", "operation_22", "operation_28"]}
+{"idx": "780", "rule_list": ["operation_7"], "question_list": ["operation_61", "operation_66", "operation_65", "operation_64", "operation_68", "operation_63", "operation_69", "operation_70", "operation_67", "operation_62"]}
+{"idx": "781", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_147"]}
+{"idx": "782", "rule_list": ["logic_5"], "question_list": ["logic_41", "logic_47"]}
+{"idx": "783", "rule_list": ["puzzle_17"], "question_list": ["puzzle_170", "puzzle_163", "puzzle_161"]}
+{"idx": "784", "rule_list": ["puzzle_17"], "question_list": ["puzzle_161", "puzzle_169", "puzzle_164", "puzzle_166"]}
+{"idx": "785", "rule_list": ["logic_5"], "question_list": ["logic_47", "logic_50", "logic_48", "logic_44", "logic_46"]}
+{"idx": "786", "rule_list": ["operation_6"], "question_list": ["operation_55", "operation_59", "operation_52", "operation_54", "operation_51", "operation_56"]}
+{"idx": "787", "rule_list": ["operation_4"], "question_list": ["operation_36", "operation_35", "operation_38", "operation_37", "operation_32", "operation_40", "operation_33"]}
+{"idx": "788", "rule_list": ["puzzle_15"], "question_list": ["puzzle_148", "puzzle_144", "puzzle_149", "puzzle_142", "puzzle_146", "puzzle_145", "puzzle_143", "puzzle_141"]}
+{"idx": "789", "rule_list": ["cipher_11"], "question_list": ["cipher_106", "cipher_110", "cipher_105", "cipher_107", "cipher_103", "cipher_104", "cipher_109", "cipher_102", "cipher_101"]}
+{"idx": "790", "rule_list": ["logic_7"], "question_list": ["logic_62", "logic_64", "logic_63", "logic_70", "logic_68", "logic_67", "logic_65", "logic_66", "logic_61", "logic_69"]}
+{"idx": "791", "rule_list": ["counterfactual_12"], "question_list": ["counterfactual_120"]}
+{"idx": "792", "rule_list": ["puzzle_11"], "question_list": ["puzzle_107", "puzzle_108"]}
+{"idx": "793", "rule_list": ["cipher_19"], "question_list": ["cipher_183", "cipher_185", "cipher_181"]}
+{"idx": "794", "rule_list": ["logic_21"], "question_list": ["logic_207", "logic_209", "logic_210", "logic_206"]}
+{"idx": "795", "rule_list": ["cipher_20"], "question_list": ["cipher_193", "cipher_198", "cipher_196", "cipher_191", "cipher_199"]}
+{"idx": "796", "rule_list": ["logic_7"], "question_list": ["logic_63", "logic_67", "logic_65", "logic_68", "logic_61", "logic_70"]}
+{"idx": "797", "rule_list": ["operation_13"], "question_list": ["operation_121", "operation_128", "operation_129", "operation_123", "operation_130", "operation_122", "operation_126"]}
+{"idx": "798", "rule_list": ["cipher_7"], "question_list": ["cipher_65", "cipher_62", "cipher_66", "cipher_69", "cipher_61", "cipher_70", "cipher_63", "cipher_64"]}
+{"idx": "799", "rule_list": ["puzzle_7"], "question_list": ["puzzle_61", "puzzle_68", "puzzle_70", "puzzle_63", "puzzle_69", "puzzle_64", "puzzle_66", "puzzle_62", "puzzle_65"]}
+{"idx": "800", "rule_list": ["counterfactual_13"], "question_list": ["counterfactual_122", "counterfactual_129", "counterfactual_130", "counterfactual_123", "counterfactual_125", "counterfactual_124", "counterfactual_127", "counterfactual_121", "counterfactual_126", "counterfactual_128"]}
+{"idx": "801", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_217"]}
+{"idx": "802", "rule_list": ["operation_9"], "question_list": ["operation_84", "operation_83"]}
+{"idx": "803", "rule_list": ["cipher_10"], "question_list": ["cipher_96", "cipher_98", "cipher_93"]}
+{"idx": "804", "rule_list": ["operation_18"], "question_list": ["operation_172", "operation_174", "operation_179", "operation_176"]}
+{"idx": "805", "rule_list": ["cipher_3"], "question_list": ["cipher_22", "cipher_21", "cipher_30", "cipher_23", "cipher_28"]}
+{"idx": "806", "rule_list": ["operation_11"], "question_list": ["operation_106", "operation_108", "operation_105", "operation_104", "operation_102", "operation_101"]}
+{"idx": "807", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_88", "counterfactual_84", "counterfactual_85", "counterfactual_87", "counterfactual_90", "counterfactual_83", "counterfactual_81"]}
+{"idx": "808", "rule_list": ["logic_9"], "question_list": ["logic_82", "logic_85", "logic_90", "logic_86", "logic_88", "logic_89", "logic_87", "logic_83"]}
+{"idx": "809", "rule_list": ["counterfactual_11"], "question_list": ["counterfactual_105", "counterfactual_106", "counterfactual_102", "counterfactual_109", "counterfactual_103", "counterfactual_110", "counterfactual_101", "counterfactual_104", "counterfactual_108"]}
+{"idx": "810", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_41", "counterfactual_47", "counterfactual_48", "counterfactual_49", "counterfactual_43", "counterfactual_46", "counterfactual_45", "counterfactual_44", "counterfactual_50", "counterfactual_42"]}
+{"idx": "811", "rule_list": ["operation_21"], "question_list": ["operation_203"]}
+{"idx": "812", "rule_list": ["logic_1"], "question_list": ["logic_10", "logic_9"]}
+{"idx": "813", "rule_list": ["cipher_23"], "question_list": ["cipher_230", "cipher_223", "cipher_227"]}
+{"idx": "814", "rule_list": ["puzzle_10"], "question_list": ["puzzle_100", "puzzle_96", "puzzle_93", "puzzle_91"]}
+{"idx": "815", "rule_list": ["operation_2"], "question_list": ["operation_14", "operation_17", "operation_12", "operation_16", "operation_19"]}
+{"idx": "816", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_134", "counterfactual_133", "counterfactual_131", "counterfactual_136", "counterfactual_138", "counterfactual_135"]}
+{"idx": "817", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_158", "counterfactual_155", "counterfactual_152", "counterfactual_157", "counterfactual_156", "counterfactual_153", "counterfactual_154"]}
+{"idx": "818", "rule_list": ["logic_10"], "question_list": ["logic_94", "logic_99", "logic_95", "logic_97", "logic_100", "logic_93", "logic_96", "logic_91"]}
+{"idx": "819", "rule_list": ["logic_3"], "question_list": ["logic_23", "logic_21", "logic_25", "logic_24", "logic_27", "logic_30", "logic_22", "logic_28", "logic_29"]}
+{"idx": "820", "rule_list": ["puzzle_20"], "question_list": ["puzzle_193", "puzzle_198", "puzzle_195", "puzzle_191", "puzzle_197", "puzzle_196", "puzzle_192", "puzzle_194", "puzzle_199", "puzzle_200"]}
+{"idx": "821", "rule_list": ["operation_3"], "question_list": ["operation_26"]}
+{"idx": "822", "rule_list": ["counterfactual_2"], "question_list": ["counterfactual_11", "counterfactual_16"]}
+{"idx": "823", "rule_list": ["logic_11"], "question_list": ["logic_105", "logic_102", "logic_103"]}
+{"idx": "824", "rule_list": ["cipher_14"], "question_list": ["cipher_133", "cipher_132", "cipher_135", "cipher_138"]}
+{"idx": "825", "rule_list": ["logic_7"], "question_list": ["logic_66", "logic_65", "logic_61", "logic_63", "logic_69"]}
+{"idx": "826", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_227", "counterfactual_225", "counterfactual_223", "counterfactual_230", "counterfactual_229", "counterfactual_226"]}
+{"idx": "827", "rule_list": ["logic_19"], "question_list": ["logic_185", "logic_190", "logic_186", "logic_183", "logic_189", "logic_182", "logic_181"]}
+{"idx": "828", "rule_list": ["logic_12"], "question_list": ["logic_115", "logic_119", "logic_118", "logic_111", "logic_114", "logic_120", "logic_113", "logic_116"]}
+{"idx": "829", "rule_list": ["puzzle_14"], "question_list": ["puzzle_137", "puzzle_131", "puzzle_139", "puzzle_133", "puzzle_138", "puzzle_140", "puzzle_132", "puzzle_136", "puzzle_135"]}
+{"idx": "830", "rule_list": ["logic_6"], "question_list": ["logic_57", "logic_52", "logic_55", "logic_53", "logic_51", "logic_58", "logic_60", "logic_59", "logic_56", "logic_54"]}
+{"idx": "831", "rule_list": ["cipher_8"], "question_list": ["cipher_73"]}
+{"idx": "832", "rule_list": ["logic_14"], "question_list": ["logic_138", "logic_133"]}
+{"idx": "833", "rule_list": ["puzzle_15"], "question_list": ["puzzle_149", "puzzle_150", "puzzle_147"]}
+{"idx": "834", "rule_list": ["operation_12"], "question_list": ["operation_114", "operation_118", "operation_117", "operation_119"]}
+{"idx": "835", "rule_list": ["cipher_24"], "question_list": ["cipher_234", "cipher_231", "cipher_232", "cipher_238", "cipher_235"]}
+{"idx": "836", "rule_list": ["puzzle_25"], "question_list": ["puzzle_248", "puzzle_246", "puzzle_244", "puzzle_245", "puzzle_242", "puzzle_249"]}
+{"idx": "837", "rule_list": ["cipher_8"], "question_list": ["cipher_71", "cipher_72", "cipher_74", "cipher_75", "cipher_73", "cipher_78", "cipher_76"]}
+{"idx": "838", "rule_list": ["puzzle_16"], "question_list": ["puzzle_159", "puzzle_157", "puzzle_152", "puzzle_154", "puzzle_153", "puzzle_151", "puzzle_158", "puzzle_160"]}
+{"idx": "839", "rule_list": ["cipher_10"], "question_list": ["cipher_93", "cipher_99", "cipher_94", "cipher_97", "cipher_98", "cipher_95", "cipher_91", "cipher_100", "cipher_92"]}
+{"idx": "840", "rule_list": ["logic_18"], "question_list": ["logic_179", "logic_180", "logic_178", "logic_175", "logic_174", "logic_172", "logic_177", "logic_176", "logic_171", "logic_173"]}
+{"idx": "841", "rule_list": ["operation_13"], "question_list": ["operation_128"]}
+{"idx": "842", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_137", "counterfactual_134"]}
+{"idx": "843", "rule_list": ["cipher_25"], "question_list": ["cipher_245", "cipher_249", "cipher_244"]}
+{"idx": "844", "rule_list": ["logic_13"], "question_list": ["logic_129", "logic_124", "logic_123", "logic_125"]}
+{"idx": "845", "rule_list": ["logic_12"], "question_list": ["logic_119", "logic_118", "logic_116", "logic_117", "logic_113"]}
+{"idx": "846", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_239", "counterfactual_237", "counterfactual_232", "counterfactual_234", "counterfactual_231", "counterfactual_235"]}
+{"idx": "847", "rule_list": ["cipher_5"], "question_list": ["cipher_42", "cipher_45", "cipher_49", "cipher_43", "cipher_41", "cipher_50", "cipher_47"]}
+{"idx": "848", "rule_list": ["puzzle_4"], "question_list": ["puzzle_37", "puzzle_39", "puzzle_38", "puzzle_35", "puzzle_36", "puzzle_32", "puzzle_33", "puzzle_40"]}
+{"idx": "849", "rule_list": ["logic_25"], "question_list": ["logic_249", "logic_246", "logic_250", "logic_242", "logic_245", "logic_244", "logic_248", "logic_241", "logic_243"]}
+{"idx": "850", "rule_list": ["logic_2"], "question_list": ["logic_13", "logic_11", "logic_16", "logic_20", "logic_12", "logic_18", "logic_19", "logic_15", "logic_17", "logic_14"]}
+{"idx": "851", "rule_list": ["logic_19"], "question_list": ["logic_188"]}
+{"idx": "852", "rule_list": ["puzzle_18"], "question_list": ["puzzle_175", "puzzle_174"]}
+{"idx": "853", "rule_list": ["puzzle_13"], "question_list": ["puzzle_121", "puzzle_126", "puzzle_124"]}
+{"idx": "854", "rule_list": ["puzzle_3"], "question_list": ["puzzle_22", "puzzle_21", "puzzle_25", "puzzle_28"]}
+{"idx": "855", "rule_list": ["puzzle_6"], "question_list": ["puzzle_56", "puzzle_58", "puzzle_59", "puzzle_53", "puzzle_52"]}
+{"idx": "856", "rule_list": ["counterfactual_7"], "question_list": ["counterfactual_64", "counterfactual_69", "counterfactual_66", "counterfactual_62", "counterfactual_63", "counterfactual_70"]}
+{"idx": "857", "rule_list": ["logic_22"], "question_list": ["logic_215", "logic_211", "logic_220", "logic_219", "logic_216", "logic_214", "logic_212"]}
+{"idx": "858", "rule_list": ["operation_12"], "question_list": ["operation_117", "operation_116", "operation_119", "operation_120", "operation_111", "operation_114", "operation_112", "operation_118"]}
+{"idx": "859", "rule_list": ["logic_6"], "question_list": ["logic_56", "logic_60", "logic_59", "logic_51", "logic_55", "logic_54", "logic_58", "logic_53", "logic_52"]}
+{"idx": "860", "rule_list": ["logic_23"], "question_list": ["logic_221", "logic_227", "logic_223", "logic_226", "logic_224", "logic_229", "logic_222", "logic_225", "logic_228", "logic_230"]}
+{"idx": "861", "rule_list": ["cipher_17"], "question_list": ["cipher_164"]}
+{"idx": "862", "rule_list": ["logic_11"], "question_list": ["logic_102", "logic_107"]}
+{"idx": "863", "rule_list": ["operation_9"], "question_list": ["operation_89", "operation_84", "operation_87"]}
+{"idx": "864", "rule_list": ["cipher_24"], "question_list": ["cipher_238", "cipher_240", "cipher_239", "cipher_231"]}
+{"idx": "865", "rule_list": ["cipher_4"], "question_list": ["cipher_34", "cipher_36", "cipher_35", "cipher_33", "cipher_32"]}
+{"idx": "866", "rule_list": ["cipher_6"], "question_list": ["cipher_59", "cipher_55", "cipher_52", "cipher_57", "cipher_54", "cipher_56"]}
+{"idx": "867", "rule_list": ["logic_2"], "question_list": ["logic_18", "logic_12", "logic_14", "logic_16", "logic_19", "logic_20", "logic_13"]}
+{"idx": "868", "rule_list": ["operation_10"], "question_list": ["operation_96", "operation_95", "operation_94", "operation_93", "operation_99", "operation_92", "operation_100", "operation_98"]}
+{"idx": "869", "rule_list": ["cipher_19"], "question_list": ["cipher_189", "cipher_183", "cipher_185", "cipher_190", "cipher_182", "cipher_186", "cipher_188", "cipher_184", "cipher_187"]}
+{"idx": "870", "rule_list": ["puzzle_17"], "question_list": ["puzzle_161", "puzzle_162", "puzzle_163", "puzzle_170", "puzzle_166", "puzzle_169", "puzzle_167", "puzzle_164", "puzzle_168", "puzzle_165"]}
+{"idx": "871", "rule_list": ["puzzle_21"], "question_list": ["puzzle_208"]}
+{"idx": "872", "rule_list": ["operation_24"], "question_list": ["operation_240", "operation_231"]}
+{"idx": "873", "rule_list": ["counterfactual_13"], "question_list": ["counterfactual_125", "counterfactual_122", "counterfactual_130"]}
+{"idx": "874", "rule_list": ["logic_20"], "question_list": ["logic_194", "logic_199", "logic_192", "logic_196"]}
+{"idx": "875", "rule_list": ["operation_9"], "question_list": ["operation_87", "operation_89", "operation_90", "operation_81", "operation_83"]}
+{"idx": "876", "rule_list": ["logic_10"], "question_list": ["logic_100", "logic_92", "logic_93", "logic_96", "logic_94", "logic_98"]}
+{"idx": "877", "rule_list": ["cipher_10"], "question_list": ["cipher_98", "cipher_96", "cipher_91", "cipher_94", "cipher_93", "cipher_95", "cipher_92"]}
+{"idx": "878", "rule_list": ["puzzle_23"], "question_list": ["puzzle_227", "puzzle_222", "puzzle_224", "puzzle_223", "puzzle_225", "puzzle_228", "puzzle_221", "puzzle_226"]}
+{"idx": "879", "rule_list": ["logic_8"], "question_list": ["logic_80", "logic_73", "logic_72", "logic_76", "logic_78", "logic_74", "logic_77", "logic_79", "logic_75"]}
+{"idx": "880", "rule_list": ["logic_24"], "question_list": ["logic_240", "logic_232", "logic_234", "logic_235", "logic_233", "logic_231", "logic_239", "logic_236", "logic_237", "logic_238"]}
+{"idx": "881", "rule_list": ["cipher_17"], "question_list": ["cipher_166"]}
+{"idx": "882", "rule_list": ["logic_19"], "question_list": ["logic_186", "logic_183"]}
+{"idx": "883", "rule_list": ["cipher_2"], "question_list": ["cipher_19", "cipher_14", "cipher_15"]}
+{"idx": "884", "rule_list": ["operation_16"], "question_list": ["operation_158", "operation_156", "operation_159", "operation_154"]}
+{"idx": "885", "rule_list": ["operation_14"], "question_list": ["operation_139", "operation_134", "operation_133", "operation_131", "operation_138"]}
+{"idx": "886", "rule_list": ["logic_19"], "question_list": ["logic_181", "logic_190", "logic_182", "logic_188", "logic_186", "logic_183"]}
+{"idx": "887", "rule_list": ["puzzle_21"], "question_list": ["puzzle_202", "puzzle_204", "puzzle_205", "puzzle_207", "puzzle_208", "puzzle_206", "puzzle_210"]}
+{"idx": "888", "rule_list": ["operation_18"], "question_list": ["operation_177", "operation_171", "operation_173", "operation_179", "operation_174", "operation_172", "operation_175", "operation_180"]}
+{"idx": "889", "rule_list": ["puzzle_17"], "question_list": ["puzzle_163", "puzzle_166", "puzzle_168", "puzzle_162", "puzzle_164", "puzzle_170", "puzzle_165", "puzzle_161", "puzzle_167"]}
+{"idx": "890", "rule_list": ["counterfactual_21"], "question_list": ["counterfactual_205", "counterfactual_203", "counterfactual_206", "counterfactual_201", "counterfactual_202", "counterfactual_210", "counterfactual_204", "counterfactual_209", "counterfactual_207", "counterfactual_208"]}
+{"idx": "891", "rule_list": ["operation_16"], "question_list": ["operation_151"]}
+{"idx": "892", "rule_list": ["logic_11"], "question_list": ["logic_110", "logic_108"]}
+{"idx": "893", "rule_list": ["cipher_14"], "question_list": ["cipher_140", "cipher_131", "cipher_135"]}
+{"idx": "894", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_180", "counterfactual_178", "counterfactual_176", "counterfactual_171"]}
+{"idx": "895", "rule_list": ["operation_18"], "question_list": ["operation_174", "operation_175", "operation_176", "operation_180", "operation_171"]}
+{"idx": "896", "rule_list": ["cipher_11"], "question_list": ["cipher_110", "cipher_104", "cipher_107", "cipher_106", "cipher_108", "cipher_103"]}
+{"idx": "897", "rule_list": ["counterfactual_1"], "question_list": ["counterfactual_10", "counterfactual_7", "counterfactual_4", "counterfactual_2", "counterfactual_5", "counterfactual_6", "counterfactual_3"]}
+{"idx": "898", "rule_list": ["puzzle_12"], "question_list": ["puzzle_112", "puzzle_115", "puzzle_119", "puzzle_113", "puzzle_116", "puzzle_117", "puzzle_111", "puzzle_120"]}
+{"idx": "899", "rule_list": ["cipher_1"], "question_list": ["cipher_5", "cipher_3", "cipher_2", "cipher_8", "cipher_4", "cipher_7", "cipher_6", "cipher_9", "cipher_10"]}
+{"idx": "900", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_176", "counterfactual_177", "counterfactual_172", "counterfactual_178", "counterfactual_180", "counterfactual_179", "counterfactual_174", "counterfactual_171", "counterfactual_173", "counterfactual_175"]}
+{"idx": "901", "rule_list": ["counterfactual_16"], "question_list": ["counterfactual_153"]}
+{"idx": "902", "rule_list": ["operation_3"], "question_list": ["operation_25", "operation_21"]}
+{"idx": "903", "rule_list": ["operation_19"], "question_list": ["operation_182", "operation_186", "operation_183"]}
+{"idx": "904", "rule_list": ["operation_3"], "question_list": ["operation_29", "operation_30", "operation_22", "operation_24"]}
+{"idx": "905", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_222", "counterfactual_224", "counterfactual_221", "counterfactual_225", "counterfactual_223"]}
+{"idx": "906", "rule_list": ["counterfactual_5"], "question_list": ["counterfactual_49", "counterfactual_45", "counterfactual_50", "counterfactual_48", "counterfactual_46", "counterfactual_44"]}
+{"idx": "907", "rule_list": ["cipher_9"], "question_list": ["cipher_82", "cipher_88", "cipher_84", "cipher_86", "cipher_90", "cipher_85", "cipher_81"]}
+{"idx": "908", "rule_list": ["puzzle_4"], "question_list": ["puzzle_37", "puzzle_36", "puzzle_39", "puzzle_38", "puzzle_34", "puzzle_32", "puzzle_35", "puzzle_31"]}
+{"idx": "909", "rule_list": ["puzzle_10"], "question_list": ["puzzle_96", "puzzle_91", "puzzle_98", "puzzle_100", "puzzle_97", "puzzle_92", "puzzle_93", "puzzle_94", "puzzle_99"]}
+{"idx": "910", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_86", "counterfactual_82", "counterfactual_90", "counterfactual_84", "counterfactual_88", "counterfactual_89", "counterfactual_83", "counterfactual_81", "counterfactual_85", "counterfactual_87"]}
+{"idx": "911", "rule_list": ["cipher_21"], "question_list": ["cipher_203"]}
+{"idx": "912", "rule_list": ["operation_22"], "question_list": ["operation_211", "operation_215"]}
+{"idx": "913", "rule_list": ["operation_18"], "question_list": ["operation_178", "operation_173", "operation_171"]}
+{"idx": "914", "rule_list": ["puzzle_1"], "question_list": ["puzzle_2", "puzzle_8", "puzzle_5", "puzzle_6"]}
+{"idx": "915", "rule_list": ["puzzle_17"], "question_list": ["puzzle_163", "puzzle_161", "puzzle_166", "puzzle_169", "puzzle_167"]}
+{"idx": "916", "rule_list": ["logic_13"], "question_list": ["logic_121", "logic_128", "logic_124", "logic_123", "logic_129", "logic_125"]}
+{"idx": "917", "rule_list": ["puzzle_23"], "question_list": ["puzzle_224", "puzzle_222", "puzzle_227", "puzzle_228", "puzzle_230", "puzzle_225", "puzzle_226"]}
+{"idx": "918", "rule_list": ["cipher_19"], "question_list": ["cipher_188", "cipher_190", "cipher_185", "cipher_182", "cipher_183", "cipher_186", "cipher_181", "cipher_189"]}
+{"idx": "919", "rule_list": ["operation_4"], "question_list": ["operation_33", "operation_37", "operation_40", "operation_32", "operation_31", "operation_35", "operation_34", "operation_39", "operation_38"]}
+{"idx": "920", "rule_list": ["logic_12"], "question_list": ["logic_118", "logic_117", "logic_113", "logic_116", "logic_112", "logic_115", "logic_114", "logic_120", "logic_119", "logic_111"]}
+{"idx": "921", "rule_list": ["counterfactual_15"], "question_list": ["counterfactual_150"]}
+{"idx": "922", "rule_list": ["puzzle_11"], "question_list": ["puzzle_104", "puzzle_110"]}
+{"idx": "923", "rule_list": ["logic_9"], "question_list": ["logic_87", "logic_83", "logic_82"]}
+{"idx": "924", "rule_list": ["operation_7"], "question_list": ["operation_61", "operation_67", "operation_66", "operation_65"]}
+{"idx": "925", "rule_list": ["puzzle_25"], "question_list": ["puzzle_247", "puzzle_250", "puzzle_246", "puzzle_249", "puzzle_242"]}
+{"idx": "926", "rule_list": ["cipher_2"], "question_list": ["cipher_14", "cipher_16", "cipher_15", "cipher_12", "cipher_13", "cipher_20"]}
+{"idx": "927", "rule_list": ["puzzle_3"], "question_list": ["puzzle_23", "puzzle_28", "puzzle_26", "puzzle_27", "puzzle_29", "puzzle_30", "puzzle_21"]}
+{"idx": "928", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_171", "counterfactual_172", "counterfactual_177", "counterfactual_180", "counterfactual_174", "counterfactual_176", "counterfactual_178", "counterfactual_173"]}
+{"idx": "929", "rule_list": ["puzzle_25"], "question_list": ["puzzle_247", "puzzle_243", "puzzle_248", "puzzle_249", "puzzle_250", "puzzle_244", "puzzle_246", "puzzle_245", "puzzle_241"]}
+{"idx": "930", "rule_list": ["cipher_15"], "question_list": ["cipher_148", "cipher_144", "cipher_146", "cipher_149", "cipher_147", "cipher_142", "cipher_150", "cipher_141", "cipher_145", "cipher_143"]}
+{"idx": "931", "rule_list": ["operation_25"], "question_list": ["operation_244"]}
+{"idx": "932", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_84", "counterfactual_83"]}
+{"idx": "933", "rule_list": ["counterfactual_9"], "question_list": ["counterfactual_87", "counterfactual_85", "counterfactual_82"]}
+{"idx": "934", "rule_list": ["logic_19"], "question_list": ["logic_182", "logic_184", "logic_190", "logic_181"]}
+{"idx": "935", "rule_list": ["operation_4"], "question_list": ["operation_38", "operation_34", "operation_40", "operation_36", "operation_31"]}
+{"idx": "936", "rule_list": ["counterfactual_21"], "question_list": ["counterfactual_201", "counterfactual_210", "counterfactual_208", "counterfactual_207", "counterfactual_203", "counterfactual_206"]}
+{"idx": "937", "rule_list": ["operation_20"], "question_list": ["operation_195", "operation_191", "operation_199", "operation_193", "operation_196", "operation_200", "operation_194"]}
+{"idx": "938", "rule_list": ["operation_13"], "question_list": ["operation_129", "operation_125", "operation_128", "operation_122", "operation_126", "operation_123", "operation_124", "operation_127"]}
+{"idx": "939", "rule_list": ["counterfactual_18"], "question_list": ["counterfactual_171", "counterfactual_179", "counterfactual_176", "counterfactual_172", "counterfactual_173", "counterfactual_174", "counterfactual_177", "counterfactual_178", "counterfactual_175"]}
+{"idx": "940", "rule_list": ["puzzle_10"], "question_list": ["puzzle_91", "puzzle_95", "puzzle_97", "puzzle_99", "puzzle_94", "puzzle_96", "puzzle_100", "puzzle_92", "puzzle_98", "puzzle_93"]}
+{"idx": "941", "rule_list": ["puzzle_18"], "question_list": ["puzzle_180"]}
+{"idx": "942", "rule_list": ["logic_15"], "question_list": ["logic_145", "logic_143"]}
+{"idx": "943", "rule_list": ["logic_24"], "question_list": ["logic_237", "logic_236", "logic_231"]}
+{"idx": "944", "rule_list": ["counterfactual_12"], "question_list": ["counterfactual_120", "counterfactual_118", "counterfactual_115", "counterfactual_114"]}
+{"idx": "945", "rule_list": ["puzzle_12"], "question_list": ["puzzle_117", "puzzle_116", "puzzle_112", "puzzle_119", "puzzle_111"]}
+{"idx": "946", "rule_list": ["logic_14"], "question_list": ["logic_132", "logic_131", "logic_133", "logic_138", "logic_136", "logic_139"]}
+{"idx": "947", "rule_list": ["logic_2"], "question_list": ["logic_14", "logic_12", "logic_13", "logic_16", "logic_15", "logic_20", "logic_18"]}
+{"idx": "948", "rule_list": ["cipher_24"], "question_list": ["cipher_238", "cipher_232", "cipher_236", "cipher_233", "cipher_239", "cipher_237", "cipher_240", "cipher_235"]}
+{"idx": "949", "rule_list": ["operation_12"], "question_list": ["operation_115", "operation_111", "operation_112", "operation_116", "operation_117", "operation_118", "operation_120", "operation_114", "operation_119"]}
+{"idx": "950", "rule_list": ["logic_13"], "question_list": ["logic_124", "logic_128", "logic_121", "logic_127", "logic_122", "logic_129", "logic_123", "logic_130", "logic_125", "logic_126"]}
+{"idx": "951", "rule_list": ["cipher_21"], "question_list": ["cipher_208"]}
+{"idx": "952", "rule_list": ["operation_5"], "question_list": ["operation_48", "operation_49"]}
+{"idx": "953", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_140", "counterfactual_137", "counterfactual_135"]}
+{"idx": "954", "rule_list": ["puzzle_22"], "question_list": ["puzzle_218", "puzzle_219", "puzzle_220", "puzzle_213"]}
+{"idx": "955", "rule_list": ["operation_22"], "question_list": ["operation_215", "operation_220", "operation_212", "operation_219", "operation_214"]}
+{"idx": "956", "rule_list": ["operation_5"], "question_list": ["operation_42", "operation_44", "operation_45", "operation_50", "operation_46", "operation_41"]}
+{"idx": "957", "rule_list": ["operation_6"], "question_list": ["operation_59", "operation_57", "operation_60", "operation_56", "operation_55", "operation_53", "operation_51"]}
+{"idx": "958", "rule_list": ["cipher_2"], "question_list": ["cipher_20", "cipher_17", "cipher_11", "cipher_14", "cipher_16", "cipher_13", "cipher_12", "cipher_18"]}
+{"idx": "959", "rule_list": ["logic_10"], "question_list": ["logic_99", "logic_96", "logic_98", "logic_92", "logic_95", "logic_100", "logic_97", "logic_91", "logic_94"]}
+{"idx": "960", "rule_list": ["counterfactual_4"], "question_list": ["counterfactual_37", "counterfactual_33", "counterfactual_40", "counterfactual_36", "counterfactual_32", "counterfactual_34", "counterfactual_31", "counterfactual_38", "counterfactual_35", "counterfactual_39"]}
+{"idx": "961", "rule_list": ["logic_3"], "question_list": ["logic_22"]}
+{"idx": "962", "rule_list": ["operation_5"], "question_list": ["operation_50", "operation_49"]}
+{"idx": "963", "rule_list": ["cipher_6"], "question_list": ["cipher_54", "cipher_53", "cipher_52"]}
+{"idx": "964", "rule_list": ["logic_22"], "question_list": ["logic_219", "logic_215", "logic_217", "logic_213"]}
+{"idx": "965", "rule_list": ["puzzle_20"], "question_list": ["puzzle_196", "puzzle_199", "puzzle_193", "puzzle_191", "puzzle_195"]}
+{"idx": "966", "rule_list": ["operation_2"], "question_list": ["operation_20", "operation_13", "operation_15", "operation_17", "operation_16", "operation_18"]}
+{"idx": "967", "rule_list": ["logic_11"], "question_list": ["logic_102", "logic_109", "logic_103", "logic_104", "logic_110", "logic_101", "logic_106"]}
+{"idx": "968", "rule_list": ["counterfactual_8"], "question_list": ["counterfactual_78", "counterfactual_72", "counterfactual_73", "counterfactual_77", "counterfactual_74", "counterfactual_80", "counterfactual_75", "counterfactual_76"]}
+{"idx": "969", "rule_list": ["logic_16"], "question_list": ["logic_151", "logic_156", "logic_160", "logic_158", "logic_154", "logic_159", "logic_155", "logic_153", "logic_157"]}
+{"idx": "970", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_132", "counterfactual_139", "counterfactual_138", "counterfactual_131", "counterfactual_136", "counterfactual_135", "counterfactual_137", "counterfactual_134", "counterfactual_133", "counterfactual_140"]}
+{"idx": "971", "rule_list": ["puzzle_25"], "question_list": ["puzzle_244"]}
+{"idx": "972", "rule_list": ["counterfactual_17"], "question_list": ["counterfactual_167", "counterfactual_168"]}
+{"idx": "973", "rule_list": ["logic_5"], "question_list": ["logic_44", "logic_46", "logic_42"]}
+{"idx": "974", "rule_list": ["counterfactual_22"], "question_list": ["counterfactual_212", "counterfactual_213", "counterfactual_217", "counterfactual_220"]}
+{"idx": "975", "rule_list": ["cipher_6"], "question_list": ["cipher_58", "cipher_52", "cipher_56", "cipher_53", "cipher_55"]}
+{"idx": "976", "rule_list": ["operation_18"], "question_list": ["operation_177", "operation_180", "operation_173", "operation_172", "operation_176", "operation_174"]}
+{"idx": "977", "rule_list": ["operation_5"], "question_list": ["operation_47", "operation_48", "operation_46", "operation_42", "operation_41", "operation_49", "operation_50"]}
+{"idx": "978", "rule_list": ["counterfactual_23"], "question_list": ["counterfactual_227", "counterfactual_224", "counterfactual_229", "counterfactual_225", "counterfactual_222", "counterfactual_228", "counterfactual_221", "counterfactual_230"]}
+{"idx": "979", "rule_list": ["counterfactual_14"], "question_list": ["counterfactual_136", "counterfactual_132", "counterfactual_133", "counterfactual_131", "counterfactual_140", "counterfactual_138", "counterfactual_137", "counterfactual_139", "counterfactual_134"]}
+{"idx": "980", "rule_list": ["cipher_9"], "question_list": ["cipher_85", "cipher_81", "cipher_90", "cipher_83", "cipher_89", "cipher_86", "cipher_88", "cipher_82", "cipher_84", "cipher_87"]}
+{"idx": "981", "rule_list": ["puzzle_23"], "question_list": ["puzzle_225"]}
+{"idx": "982", "rule_list": ["counterfactual_8"], "question_list": ["counterfactual_77", "counterfactual_71"]}
+{"idx": "983", "rule_list": ["counterfactual_8"], "question_list": ["counterfactual_75", "counterfactual_72", "counterfactual_74"]}
+{"idx": "984", "rule_list": ["cipher_15"], "question_list": ["cipher_146", "cipher_150", "cipher_145", "cipher_144"]}
+{"idx": "985", "rule_list": ["logic_13"], "question_list": ["logic_127", "logic_122", "logic_123", "logic_129", "logic_130"]}
+{"idx": "986", "rule_list": ["operation_4"], "question_list": ["operation_33", "operation_37", "operation_35", "operation_39", "operation_34", "operation_36"]}
+{"idx": "987", "rule_list": ["operation_15"], "question_list": ["operation_146", "operation_144", "operation_145", "operation_141", "operation_142", "operation_147", "operation_143"]}
+{"idx": "988", "rule_list": ["cipher_12"], "question_list": ["cipher_113", "cipher_118", "cipher_111", "cipher_116", "cipher_117", "cipher_112", "cipher_114", "cipher_115"]}
+{"idx": "989", "rule_list": ["cipher_17"], "question_list": ["cipher_167", "cipher_170", "cipher_163", "cipher_168", "cipher_161", "cipher_162", "cipher_169", "cipher_164", "cipher_165"]}
+{"idx": "990", "rule_list": ["counterfactual_24"], "question_list": ["counterfactual_235", "counterfactual_239", "counterfactual_240", "counterfactual_236", "counterfactual_233", "counterfactual_237", "counterfactual_231", "counterfactual_238", "counterfactual_232", "counterfactual_234"]}
+{"idx": "991", "rule_list": ["cipher_22"], "question_list": ["cipher_216"]}
+{"idx": "992", "rule_list": ["puzzle_22"], "question_list": ["puzzle_218", "puzzle_211"]}
+{"idx": "993", "rule_list": ["cipher_24"], "question_list": ["cipher_236", "cipher_233", "cipher_239"]}
+{"idx": "994", "rule_list": ["operation_18"], "question_list": ["operation_172", "operation_180", "operation_175", "operation_176"]}
+{"idx": "995", "rule_list": ["logic_16"], "question_list": ["logic_155", "logic_157", "logic_152", "logic_154", "logic_156"]}
+{"idx": "996", "rule_list": ["cipher_13"], "question_list": ["cipher_122", "cipher_124", "cipher_128", "cipher_129", "cipher_123", "cipher_121"]}
+{"idx": "997", "rule_list": ["puzzle_18"], "question_list": ["puzzle_175", "puzzle_171", "puzzle_177", "puzzle_178", "puzzle_179", "puzzle_174", "puzzle_173"]}
+{"idx": "998", "rule_list": ["puzzle_13"], "question_list": ["puzzle_126", "puzzle_123", "puzzle_128", "puzzle_127", "puzzle_130", "puzzle_121", "puzzle_124", "puzzle_122"]}
+{"idx": "999", "rule_list": ["logic_16"], "question_list": ["logic_158", "logic_154", "logic_159", "logic_152", "logic_155", "logic_156", "logic_157", "logic_153", "logic_160"]}
+{"idx": "1000", "rule_list": ["puzzle_1"], "question_list": ["puzzle_1", "puzzle_3", "puzzle_6", "puzzle_4", "puzzle_7", "puzzle_10", "puzzle_9", "puzzle_5", "puzzle_2", "puzzle_8"]}

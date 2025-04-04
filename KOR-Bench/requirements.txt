@@ -1,0 +1,7 @@
+transformers>=4.44.0
+vllm>=0.6.0
+tenacity>=9.0.0
+openai>=1.30.0
+prettytable>=3.0.0
+sympy>=1.13.0
+antlr4-python3-runtime==4.11
