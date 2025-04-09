@@ -1,6 +1,6 @@
 # COIG-P
 
-[**📖 Arxiv Paper**](https://huggingface.co/papers/2504.05535) | [**🤗 Paper**](https://arxiv.org/pdf/2504.05535) | [**🤗 COIG-P Dataset**](https://huggingface.co/datasets/m-a-p/COIG-P) | [**🤗 Chinese Reward Benchmark (CRBench)**](https://huggingface.co/datasets/m-a-p/COIG-P-CRM) | [**🦜 Tweets**](xxx)
+[**📖 Arxiv Paper**](https://arxiv.org/pdf/2504.05535) | [**🤗 Paper**](https://huggingface.co/papers/2504.05535) | [**🤗 COIG-P Dataset**](https://huggingface.co/datasets/m-a-p/COIG-P) | [**🤗 Chinese Reward Benchmark (CRBench)**](https://huggingface.co/datasets/m-a-p/COIG-P-CRM) | [**🦜 Tweets**](xxx)
 
 [**🤗 COIG-P Models**](https://huggingface.co/collections/m-a-p/coig-p-models-67efce2f0a7b66566d85eac9)
 
