@@ -1,6 +1,6 @@
 # COIG-P
 
-[**📖 Arxiv Paper**](xxx) | [**🤗 Paper**](xx) | [**🤗 COIG-P Dataset**](m-a-p/COIG-P) | [**🤗 Chinese Reward Benchmark (CRBench)**](m-a-p/COIG-CRBench) | [**🦜 Tweets**](xxx)
+[**📖 Arxiv Paper**](https://huggingface.co/papers/2504.05535) | [**🤗 Paper**](https://arxiv.org/pdf/2504.05535) | [**🤗 COIG-P Dataset**](https://huggingface.co/datasets/m-a-p/COIG-P) | [**🤗 Chinese Reward Benchmark (CRBench)**](https://huggingface.co/datasets/m-a-p/COIG-P-CRM) | [**🦜 Tweets**](xxx)
 
 [**🤗 COIG-P Models**](https://huggingface.co/collections/m-a-p/coig-p-models-67efce2f0a7b66566d85eac9)
 
@@ -342,5 +342,13 @@ with torch.no_grad():
 ## Reference
 
 ```bib
-xxx
+@misc{pteam2025coigphighqualitylargescalechinese,
+      title={COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values}, 
+      author={P Team and Siwei Wu and Jincheng Ren and Xinrun Du and Shuyue Guo and Xingwei Qu and Yiming Liang and Jie Liu and Yunwen Li and Tianyu Zheng and Boyu Feng and Huaqing Yuan and Zenith Wang and Jiaheng Liu and Wenhao Huang and Chenglin Cai and Haoran Que and Jian Yang and Yuelin Bai and Zekun Moore Wang and Zhouliang Yu and Qunshu Lin and Ding Pan and Yuchen Jiang and Tiannan Wang and Wangchunshu Zhou and Shenzhi Wang and Xingyuan Bu and Minghao Liu and Guoyin Wang and Ge Zhang and Chenghua Lin},
+      year={2025},
+      eprint={2504.05535},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.05535}, 
+}
 ```
