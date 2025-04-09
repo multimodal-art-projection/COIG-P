@@ -4,8 +4,8 @@
 
 [**🤗 COIG-P Models**](https://huggingface.co/collections/m-a-p/coig-p-models-67efce2f0a7b66566d85eac9)
 
-This is the repo for the paper [**COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**](./COIG_P_MAP.pdf).
-In this project, we design an **LLM-based Chinese preference dataset annotation pipeline** for the sake of avoiding human intervention. Specifically, we crawled and carefully filtered **9k** high-quality Chinese queries and employed **15** powerful LLMs to generate and score chosen-rejected response pairs. Based on it, we introduce **COIG-P** (**C**hinese **O**pen **I**nstruction **G**eneralist - **P**reference), a high-quality, large-scale Chinese preference dataset, comprises **101k** Chinese preference pairs spanning 6 diverse domains: **Chat, Code, Math, Logic, Novel, and Role**. Building upon COIG-P, to reduce the overhead of using LLMs for scoring, we trained a 8B-sized **Chinese Reward Model (CRM)** and meticulously constructed a **Chinese Reward Benchmark (CRBench)**. 
+This is the repo for the paper [**COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**](https://arxiv.org/abs/2504.05535).
+In this project, we design an **LLM-based Chinese preference dataset annotation pipeline** for the sake of avoiding human intervention. Specifically, we crawled and carefully filtered **92k** high-quality Chinese queries and employed **15** powerful LLMs to generate and score chosen-rejected response pairs. Based on it, we introduce **COIG-P** (**C**hinese **O**pen **I**nstruction **G**eneralist - **P**reference), a high-quality, large-scale Chinese preference dataset, comprises **1,006k** Chinese preference pairs spanning 6 diverse domains: **Chat, Code, Math, Logic, Novel, and Role**. Building upon COIG-P, to reduce the overhead of using LLMs for scoring, we trained a 8B-sized **Chinese Reward Model (CRM)** and meticulously constructed a **Chinese Reward Benchmark (CRBench)**. 
 
 <div align="center">
 <img src=./imgs/comparing_datasets.png width=90% />
