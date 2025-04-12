@@ -9,7 +9,6 @@ import re
 def calculate_scores(model, tokenizer, prompt, chosen, rejected, args):
     #'Generative' 'api' #Skywork-Reward-Gemma-2-27B-v0.2 #Llama-3-OffsetBias-RM-8B #RM-Mistral-7B #ArmoRM-Llama3-8B-v0.1 #Skywork-Reward-Llama-3.1-8B-v0.2
     if args.model_name in ['Skywork-Reward-Gemma-2-27B-v0.2', 'CRM', "Llama-3-OffsetBias-RM-8B", "RM-Mistral-7B", "ArmoRM-Llama3-8B-v0.1", "Skywork-Reward-Llama-3.1-8B-v0.2"] :
-        prompt = "Is having your medical records online safe?"
         chosen_messages = [{"role": "user", "content": prompt},
                 {"role": "assistant", "content": chosen}]
         rejected_messages = [{"role": "user", "content": prompt},
